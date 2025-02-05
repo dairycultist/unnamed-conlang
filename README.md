@@ -22,4 +22,4 @@ CrVC, 5 vowel system
 
 ## Orthrography
 
-/k/ => <c> in all environments!
+/k/ => ⟨c⟩ in all environments!
