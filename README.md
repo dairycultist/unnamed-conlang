@@ -3,6 +3,10 @@
 ## Example sentences
 
 Cadoro ir parasa en doron.
+_The dog is running in the ..._
+
+Neter kipa en cribar.
+_The man is writing a word._
 
 ## Lexicon
 
@@ -13,6 +17,7 @@ Cadoro ir parasa en doron.
 | don      | N           | work                 |
 | cadoro   | N           | dog                  |
 | cadro    | N           | shirt                |
+| kipa     | N           | word                 |
 | parasa   | N           |                      |
 | ir       | Prep        | at                   |
 | en       | Prep        | in                   |
@@ -51,6 +56,6 @@ Loosely head-final.
 
 S → Subject Auxverb VerbP
 
-VerbP → (PrepP) V (args)
+VerbP → (PrepP) (args) V
 
 PrepP → Prep Location
