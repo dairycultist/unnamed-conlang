@@ -2,11 +2,9 @@
 
 ## Example sentences
 
-Cadoro ir parasa en doron.
-_The dog is running in the ..._
+Cadoro ir parasa en doron. _The dog is running in the ..._
 
-Neter kipa en cribar.
-_The man is writing a word._
+Neter kipa en cribar. _The man is writing a word._
 
 ## Lexicon
 
@@ -52,7 +50,7 @@ _The man is writing a word._
 
 ## Syntax
 
-Loosely head-final.
+Weakly head-final.
 
 S → Subject Auxverb VerbP
 
