@@ -2,21 +2,23 @@
 
 ## Example sentences
 
-Cadoro en doron.
+Cadoro ir parasa en doron.
 
 ## Lexicon
 
-| Word     | Cat. | Definition           |
-|----------|------|----------------------|
-| neter    | N    | man                  |
-| nagra    | N    | woman                |
-| don      | N    | work                 |
-| cadoro   | N    | dog                  |
-| cadro    | N    | shirt                |
-| ir       | P    | at                   |
-| en       | P    | in                   |
-| cribar   | V2   | write                |
-| doron    | V1   | run                  |
+| Word     | Cat.        | Definition           |
+|----------|-------------|----------------------|
+| neter    | N           | man                  |
+| nagra    | N           | woman                |
+| don      | N           | work                 |
+| cadoro   | N           | dog                  |
+| cadro    | N           | shirt                |
+| parasa   | N           |                      |
+| ir       | Prep        | at                   |
+| en       | Prep        | in                   |
+| cribar   | V<Obj>      | write                |
+| doron    | V<>         | run                  |
+|          | V<Loc, Obj> | put                  |
 
 ### Auxverbs
 
@@ -28,7 +30,9 @@ Cadoro en doron.
 
 ## Phonology
 
-CrVC, 5 vowel system
+* CrVC
+* 5 vowel system
+* Stress falls on the penult
 
 |           | Bilabial | Alveolar | Velar |
 |-----------|----------|----------|-------|
@@ -42,4 +46,9 @@ CrVC, 5 vowel system
 /k/ => ⟨c⟩ in all environments!
 
 ## Syntax
+
 S -> Subject Auxverb VerbP
+
+VerbP -> (PrepP) V <args>
+
+PrepP -> Prep Location
