@@ -43,12 +43,14 @@ Cadoro ir parasa en doron.
 
 ## Orthrography
 
-/k/ => ⟨c⟩ in all environments!
+/k/ → ⟨c⟩ in all environments!
 
 ## Syntax
 
-S -> Subject Auxverb VerbP
+Loosely head-final.
 
-VerbP -> (PrepP) V <args>
+S → Subject Auxverb VerbP
 
-PrepP -> Prep Location
+VerbP → (PrepP) V <args>
+
+PrepP → Prep Location
