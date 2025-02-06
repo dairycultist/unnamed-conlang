@@ -2,9 +2,13 @@
 
 ## Example sentences
 
-Cadoro ir parasa en doron. _The dog is running in the grass._
+>Cadoro en parasa en doron. _The dog is running in the grass._
+>
+>dog in grass PRES.IMPERF.run 
 
-Neter kipa gar cribar. _The man wrote a word._
+>Neter kipa gar cribar. _The man wrote a word._
+>
+>man word PAST.PERF.write
 
 ## Lexicon
 
