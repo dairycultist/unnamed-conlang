@@ -23,6 +23,7 @@ Neter kipa en cribar. _The man is writing a word._
 | doron    | V()         | run                  |
 |          | V(Loc, Obj) | put                  |
 
+**Args:**
 * Obj = Direct Object, NP
 * InObj = Indirect Object, NP
 * Loc = Location, PrepP
@@ -56,8 +57,10 @@ Neter kipa en cribar. _The man is writing a word._
 
 Weakly head-final.
 
-S → Subject Auxverb VerbP
+S → NP Aux VP
 
-VerbP → (PrepP) (args) V
+VP → PP VP
 
-PrepP → Prep Location
+VP → (args) V
+
+PP → P NP
