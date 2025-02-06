@@ -16,9 +16,9 @@ Cadoro ir parasa en doron.
 | parasa   | N           |                      |
 | ir       | Prep        | at                   |
 | en       | Prep        | in                   |
-| cribar   | V<Obj>      | write                |
-| doron    | V<>         | run                  |
-|          | V<Loc, Obj> | put                  |
+| cribar   | V(Obj)      | write                |
+| doron    | V()         | run                  |
+|          | V(Loc, Obj) | put                  |
 
 ### Auxverbs
 
@@ -51,6 +51,6 @@ Loosely head-final.
 
 S → Subject Auxverb VerbP
 
-VerbP → (PrepP) V <args>
+VerbP → (PrepP) V (args)
 
 PrepP → Prep Location
