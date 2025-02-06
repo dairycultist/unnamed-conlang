@@ -4,7 +4,7 @@
 
 Cadoro ir parasa en doron. _The dog is running in the grass._
 
-Neter kipa en cribar. _The man is writing a word._
+Neter kipa gar cribar. _The man wrote a word._
 
 ## Lexicon
 
@@ -32,7 +32,7 @@ Neter kipa en cribar. _The man is writing a word._
 
 |              | Perfective | Imperfective |
 |--------------|------------|--------------|
-| **Past**     |            |              |
+| **Past**     | gar        | gran         |
 | **Present**  | Ø          | en           |
 | **Future**   |            |              |
 
