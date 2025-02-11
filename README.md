@@ -25,9 +25,10 @@ Nouns are inflected for case.
 |------------|--------|
 | Nominative | -Ø     |
 | Oblique    | -na    |
-| Vocative   | -ya    |
 
-* The vocative entails the imperative, and can be put on the 2nd person pronoun
+## Verb inflection
+
+done with particles
 
 ## Syntax
 
@@ -35,13 +36,9 @@ Strongly head-final
 
 SOV
 
->Tami, eat the food!
+>Tami eats the food.
 >
->Támiya tárina máyu!
-
->Eat the food!
->
->Úya tárina máyu!
+>Támi tárina máyu.
 
 ## Lexicon
 
