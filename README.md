@@ -6,6 +6,8 @@ Shrimple
 
 Vowels: i, a, u
 
+ɹ ɻ
+
 CV
 
 ## Syntax
@@ -19,3 +21,7 @@ Strongly head-final
 | Vocative   | ja-    |
 
 The dog eats all the red food.
+
+## Lexicon
+
+yirhamani - food
