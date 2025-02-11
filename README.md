@@ -13,7 +13,7 @@ Vowels: i, a, u
 |         | Bilabial | Alveolar | Palatal | Velar |
 |---------|----------|----------|---------|-------|
 | Nasal   | m        | n        |         |       |
-| Stop    | p        | t        | ch /͜tɕ/ | k     |
+| Stop    | p        | t        | ch /t͜ɕ/ | k     |
 | Fric.   |          | s        |         |       |
 | Squish  |          | r /ɾ/    | y /j/   |       |
 
