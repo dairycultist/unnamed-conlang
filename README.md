@@ -7,6 +7,8 @@ Shrimple
 Vowels: i, a, u
 
 ɹ ɻ
+p b t d ʈ ɖ k g
+j
 
 CV
 
