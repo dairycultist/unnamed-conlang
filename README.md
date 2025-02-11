@@ -18,6 +18,7 @@ Vowels: i, a, u
 | IPA | Orth |
 |-----|------|
 | /j/ | y    |
+| /ɾ/ | r    |
 
 ## Syntax
 
@@ -35,10 +36,10 @@ SOV
 
 >Tami, eat the food!
 >
->Tamiya taɾina vayu!
+>Tamiya tarina vayu!
 
 ## Lexicon
 
-taɾi - food
+tari - food
 
 vayu - eat
