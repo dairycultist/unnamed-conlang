@@ -8,14 +8,14 @@ CV
 
 Stress falls on the penult of the root
 
-Vowels: i, a, u
-
 |         | Bilabial | Alveolar | Palatal | Velar |
 |---------|----------|----------|---------|-------|
 | Nasal   | m        | n        |         |       |
 | Stop    | p        | t        | ch /t͜ɕ/ | k     |
 | Fric.   |          | s        |         |       |
-| Squish  |          | r /ɾ/    | y /j/   |       |
+| Squish  | w        | r /ɾ/    | y /j/   |       |
+
+Vowels: i, a, u
 
 ## Noun inflection
 
@@ -50,3 +50,5 @@ u - 2p
 tari - food
 
 mayu - eat
+
+kachira - clothing
