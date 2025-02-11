@@ -13,7 +13,7 @@ Vowels: i, a, u
 | Nasal   | m        | n        |         |       |
 | Stop    | p b      | t d      |         | k g   |
 | Fric.   | ɸ β      | s z      | ɕ ʑ     |       |
-| Approx. |          | ɹ        | j       |       |
+| Squish  |          | ɾ        | j       |       |
 
 | IPA | Orth |
 |-----|------|
@@ -28,9 +28,17 @@ SOV
 | Case       | Affix  |
 |------------|--------|
 | Nominative | -Ø     |
-| Oblique    | -ni    |
+| Oblique    | -na    |
 | Vocative   | -ya    |
 
-Tami, eat all the red food!
+* The vocative entails the imperative, and can be put on the 2nd person pronoun
 
-Tamiya
+>Tami, eat the food!
+>
+>Tamiya taɾina vayu!
+
+## Lexicon
+
+taɾi - food
+
+vayu - eat
