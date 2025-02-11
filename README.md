@@ -8,19 +8,15 @@ CV
 
 Vowels: i, a, u
 
-|         | Bilabial | Alveolar | Postalveolar | Retroflex | Palatal | Velar |
-|---------|----------|----------|--------------|-----------|---------|-------|
-| Nasal   | m        | n        |              |           |         |       |
-| Stop    | p b      | t d      |              | ʈ ɖ       |         | k g   |
-| Fric.   | ɸ β      | s z      | ʃ ʒ          | ʂ ʐ       |         |       |
-| Approx. |          | ɹ        |              | ɻ         | j       |       |
+|         | Bilabial | Alveolar | Palatal | Velar |
+|---------|----------|----------|---------|-------|
+| Nasal   | m        | n        |         |       |
+| Stop    | p b      | t d      |         | k g   |
+| Fric.   | ɸ β      | s z      | ɕ ʑ     |       |
+| Approx. |          | ɹ        | j       |       |
 
 | IPA | Orth |
 |-----|------|
-| /ʈ/ | th   |
-| /ɖ/ | dh   |
-| /ɹ/ | r    |
-| /ɻ/ | rh   |
 | /j/ | y    |
 
 ## Syntax
@@ -29,20 +25,12 @@ Strongly head-final
 
 SOV
 
-| Case       | Prefix |
+| Case       | Affix  |
 |------------|--------|
-| Nominative | Ø-     |
-| Oblique    | ni-    |
-| Vocative   | ya-    |
+| Nominative | -Ø     |
+| Oblique    | -ni    |
+| Vocative   | -ya    |
 
-The dog eats all the red food, Tami!
+Tami, eat all the red food!
 
-Biri _ _ niyirhamani dhurha, Yatami!
-
-## Lexicon
-
-dhurha - eat
-
-biri - dog
-
-yirhamani - food
+Tamiya
