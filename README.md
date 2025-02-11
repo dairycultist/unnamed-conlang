@@ -21,6 +21,7 @@ Vowels: i, a, u
 | /ɖ/ | dh   |
 | /ɹ/ | r    |
 | /ɻ/ | rh   |
+| /j/ | y    |
 
 ## Syntax
 
@@ -32,11 +33,11 @@ SOV
 |------------|--------|
 | Nominative | Ø-     |
 | Oblique    | ni-    |
-| Vocative   | ja-    |
+| Vocative   | ya-    |
 
-The dog eats all the red food.
+The dog eats all the red food, Tami!
 
-biri yirhamani 
+Biri _ _ niyirhamani dhurha, Yatami!
 
 ## Lexicon
 
