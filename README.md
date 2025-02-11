@@ -2,6 +2,12 @@
 
 Shrimple
 
-Cases: Nominative, Oblique, Vocative
 Vowels: i, a, u
-Syntax: idfk
+
+## Syntax
+
+Cases: Nominative, Oblique, Vocative
+
+Strongly head-final
+
+The dog eats all the red food.
