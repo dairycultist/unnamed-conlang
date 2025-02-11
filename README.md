@@ -6,6 +6,8 @@ Shrimple
 
 CV
 
+Stress falls on the penult of the root
+
 Vowels: i, a, u
 
 |         | Bilabial | Alveolar | Palatal | Velar |
@@ -17,6 +19,8 @@ Vowels: i, a, u
 
 | IPA | Orth |
 |-----|------|
+| /ɸ/ | f    |
+| /β/ | v    |
 | /j/ | y    |
 | /ɾ/ | r    |
 
@@ -36,7 +40,7 @@ SOV
 
 >Tami, eat the food!
 >
->Tamiya tarina vayu!
+>Támiya tárina váyu!
 
 ## Lexicon
 
