@@ -6,13 +6,11 @@ Shrimple
 
 Vowels: i, a, u
 
-|-------| Bilabial | Alveolar | Postalveolar | Retroflex | Velar |
-|-------|----------|----------|--------------|-----------|-------|
-| Stop  | p b      | t d      |              | ʈ ɖ       | k g   |
-
-ɹ ɻ
-ɸ β s z ʃ ʒ ʂ ʐ
-j
+|         | Bilabial | Alveolar | Postalveolar | Retroflex | Palatal | Velar |
+|---------|----------|----------|--------------|-----------|---------|-------|
+| Stop    | p b      | t d      |              | ʈ ɖ       |         | k g   |
+| Fric.   | ɸ β      | s z      | ʃ ʒ          | ʂ ʐ       |         |       |
+| Approx. |          | ɹ        |              | ɻ         | j       |       |
 
 CV
 
