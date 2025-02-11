@@ -24,11 +24,9 @@ Vowels: i, a, u
 | /j/ | y    |
 | /ɾ/ | r    |
 
-## Syntax
+## Noun inflection
 
-Strongly head-final
-
-SOV
+Nouns are inflected for case.
 
 | Case       | Affix  |
 |------------|--------|
@@ -38,11 +36,19 @@ SOV
 
 * The vocative entails the imperative, and can be put on the 2nd person pronoun
 
+## Syntax
+
+Strongly head-final
+
+SOV
+
 >Tami, eat the food!
 >
 >Támiya tárina váyu!
 
 ## Lexicon
+
+u - 2nd
 
 tari - food
 
