@@ -4,6 +4,8 @@ Shrimple
 
 ## Phonology
 
+CV
+
 Vowels: i, a, u
 
 |         | Bilabial | Alveolar | Postalveolar | Retroflex | Palatal | Velar |
@@ -12,7 +14,10 @@ Vowels: i, a, u
 | Fric.   | ɸ β      | s z      | ʃ ʒ          | ʂ ʐ       |         |       |
 | Approx. |          | ɹ        |              | ɻ         | j       |       |
 
-CV
+| IPA | Orth |
+|-----|------|
+| /ɹ/ | r    |
+| /ɻ/ | rh   |
 
 ## Syntax
 
@@ -28,4 +33,5 @@ The dog eats all the red food.
 
 ## Lexicon
 
+biri - dog
 yirhamani - food
