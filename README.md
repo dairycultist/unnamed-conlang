@@ -10,12 +10,12 @@ Stress falls on the penult of the root
 
 Vowels: i, a, u
 
-|         | Bilabial  | Alveolar | Palatal     | Velar |
-|---------|-----------|----------|-------------|-------|
-| Nasal   | m         | n        |             |       |
-| Stop    | p b       | t d      |             | k g   |
-| Fric.   | f v /ɸ β/ | s z      | sh zh /ɕ ʑ/ |       |
-| Squish  |           | r /ɾ/    | y /j/       |       |
+|         | Bilabial | Alveolar | Palatal | Velar |
+|---------|----------|----------|---------|-------|
+| Nasal   | m        | n        |         |       |
+| Stop    | p        | t        | ͜ch /tɕ/ | k     |
+| Fric.   |          | s        |         |       |
+| Squish  |          | r /ɾ/    | y /j/   |       |
 
 ## Noun inflection
 
@@ -37,11 +37,11 @@ SOV
 
 >Tami, eat the food!
 >
->Támiya tárina váyu!
+>Támiya tárina máyu!
 
 >Eat the food!
 >
->Úya tárina váyu!
+>Úya tárina máyu!
 
 ## Lexicon
 
@@ -49,4 +49,4 @@ u - 2p
 
 tari - food
 
-vayu - eat
+mayu - eat
