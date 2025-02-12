@@ -11,9 +11,9 @@ Stress falls on the penult of the root
 |         | Bilabial | Alveolar | Palatal | Velar |
 |---------|----------|----------|---------|-------|
 | Nasal   | m        | n        |         |       |
-| Stop    | p        | t        | ch /t͜ɕ/ | k     |
+| Stop    | p        | t        | c       | k     |
 | Fric.   |          | s        |         |       |
-| Squish  | w        | r /ɾ/    | y /j/   |       |
+| Squish  | w        | r /ɾ/    | j       |       |
 
 Vowels: i, a, u
 
@@ -30,22 +30,20 @@ Nouns are inflected for case.
 
 done with particles
 
+Progressive, "can," Imperative, etc
+
 ## Syntax
 
-Strongly head-final
-
-SOV
+OSV
 
 >Tami eats the food.
 >
->Támi tárina máyu.
+>Tárina Támi máju.
 
 ## Lexicon
 
-u - 2p
-
 tari - food
 
-mayu - eat
+maju - eat
 
-kachira - clothing
+kacira - clothing
