@@ -8,7 +8,7 @@ I like the aesthetic of Oaxaca
 
 CVC
 
-Stress falls on the penult of the root
+Vowels: i, a, u
 
 |         | Bilabial | Alveolar | Palatal | Velar |
 |---------|----------|----------|---------|-------|
@@ -17,7 +17,9 @@ Stress falls on the penult of the root
 | Fric.   |          | c, s /s/ |         |       |
 | Squish  | o /w/    | l        | j       |       |
 
-Vowels: i, a, u
+* Stress falls on the penult of the root
+
+* Vowels in hiatus have an epenthetic \[ʔ\] inserted between them.
 
 ## Noun inflection
 
@@ -39,3 +41,5 @@ Progressive, "can," Imperative, etc
 OSV
 
 cioat - woman
+
+la - water (oblique: laan \[laʔan\])
