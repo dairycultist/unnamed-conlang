@@ -4,9 +4,7 @@ I like the aesthetic of "Oaxaca"
 
 ## Phonology
 
-CVC
-
-Vowels: i, a, u
+CVC (Vowels: i, a, u)
 
 |         | Bilabial | Alveolar | Palatal | Velar |
 |---------|----------|----------|---------|-------|
@@ -37,7 +35,7 @@ Progressive, "can," Imperative, etc
 
 ## Syntax
 
-OSV
+Strongly head-final (OSV)
 
 ![Syntax tree for the sentence "Maria ate bread in the restaurant"](syntax_tree1.png)
 
