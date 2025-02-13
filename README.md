@@ -39,6 +39,10 @@ Strongly head-final (OSV)
 
 ![Syntax tree for the sentence "Maria ate bread in the restaurant"](syntax_tree1.png)
 
+> Maria ate bread in the restaurant.
+>
+> bread-OBL PAST restaurant-OBL in Maria-NOM eat
+
 ## Lexicon
 
 Oixancalca - name of the language
