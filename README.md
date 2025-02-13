@@ -37,7 +37,11 @@ Progressive, "can," Imperative, etc
 
 ## Syntax
 
-OSV?
+OSV
+
+![Syntax tree for the sentence "Maria ate bread in the restaurant"](syntax_tree1.png)
+
+## Lexicon
 
 Oixancalca - name of the language
 
