@@ -12,12 +12,12 @@ Vowels: i, a, u
 |---------|----------|----------|---------|-------|
 | Nasal   | m        | n        |         |       |
 | Stop    | p        | t        |         | c /k/ |
-| Fric.   |          | c, s /s/ |         | x     |
+| Fric.   |          | s, c /s/ |         | x     |
 | Squish  | o /w/    | l        | j       |       |
 
-* Stress falls on the penult of the root
-
+* Stress falls on the penult of the root.
 * Vowels in hiatus have an epenthetic \[ʔ\] inserted between them.
+* /k/ cannot appear before /i/. /s/ is written <c> before /i/.
 
 ## Noun inflection
 
@@ -36,7 +36,7 @@ Progressive, "can," Imperative, etc
 
 ## Syntax
 
-OSV
+OSV?
 
 Oixancalca - name of the language
 
