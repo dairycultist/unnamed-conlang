@@ -17,7 +17,8 @@ Vowels: i, a, u
 
 * Stress falls on the penult of the root.
 * Vowels in hiatus have an epenthetic \[ʔ\] inserted between them.
-* /k/ cannot appear before /i/. /s/ is written <c> before /i/.
+* /k/ cannot appear before /i/.
+* /s/ is written \<c\> before /i/.
 
 ## Noun inflection
 
