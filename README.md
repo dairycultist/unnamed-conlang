@@ -1,8 +1,6 @@
-# unnamed conlang
+# Oixancalca
 
-Shrimple
-
-I like the aesthetic of Oaxaca
+I like the aesthetic of "Oaxaca"
 
 ## Phonology
 
@@ -14,7 +12,7 @@ Vowels: i, a, u
 |---------|----------|----------|---------|-------|
 | Nasal   | m        | n        |         |       |
 | Stop    | p        | t        |         | c /k/ |
-| Fric.   |          | c, s /s/ |         |       |
+| Fric.   |          | c, s /s/ |         | x     |
 | Squish  | o /w/    | l        | j       |       |
 
 * Stress falls on the penult of the root
@@ -39,6 +37,8 @@ Progressive, "can," Imperative, etc
 ## Syntax
 
 OSV
+
+Oixancalca - name of the language
 
 cioat - woman
 
