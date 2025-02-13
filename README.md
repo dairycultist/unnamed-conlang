@@ -2,18 +2,20 @@
 
 Shrimple
 
+I like the aesthetic of Oaxaca
+
 ## Phonology
 
-CV
+CVC
 
 Stress falls on the penult of the root
 
 |         | Bilabial | Alveolar | Palatal | Velar |
 |---------|----------|----------|---------|-------|
 | Nasal   | m        | n        |         |       |
-| Stop    | p        | t        | c       | k     |
-| Fric.   |          | s        |         |       |
-| Squish  | w        | r /ɾ/    | j       |       |
+| Stop    | p        | t        |         | c /k/ |
+| Fric.   |          | c, s /s/ |         |       |
+| Squish  | o /w/    | l        | j       |       |
 
 Vowels: i, a, u
 
@@ -24,7 +26,7 @@ Nouns are inflected for case.
 | Case       | Affix  |
 |------------|--------|
 | Nominative | -Ø     |
-| Oblique    | -na    |
+| Oblique    | -an    |
 
 ## Verb inflection
 
@@ -36,14 +38,4 @@ Progressive, "can," Imperative, etc
 
 OSV
 
->Tami eats the food.
->
->Tárina Támi máju.
-
-## Lexicon
-
-tari - food
-
-maju - eat
-
-kacira - clothing
+cioat - woman
