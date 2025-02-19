@@ -11,8 +11,20 @@ CCrVC
 
 gl /ʎ/
 
-somrok
-
 AuxVSO (underlying AuxSVO with an obligatory V-fronting transformation)
 
-Sprak ve glimoj.
+Sprak ve Glimoj.
+
+---
+
+Glimo / the name of the language
+
+ve / I
+
+sprak / to speak
+
+frer / woman
+
+man / man
+
+somrok
