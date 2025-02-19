@@ -1,30 +1,7 @@
-# Glimo
+# Arabic 2
 
-Eurolang
+https://en.wikipedia.org/wiki/Arabic_script#Overview
 
-| Case       | Affix  |
-|------------|--------|
-| Nominative | -Ø     |
-| Oblique    | -e/-j  |
+vowels are unwritten, cry
 
-CCrVC
-
-gl /ʎ/
-
-AuxVSO (underlying AuxSVO with an obligatory V-fronting transformation)
-
-Sprak ve Glimoj.
-
----
-
-Glimo / the name of the language
-
-ve / I
-
-sprak / to speak
-
-frer / woman
-
-man / man
-
-somrok
+kun: كن 
