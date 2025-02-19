@@ -1,8 +1,8 @@
-# Oixancalca
+# Glanenkø
 
 Eurolang
 
-Aesthetic: Somrok Glanenko
+somrok
 
 | Case       | Affix  |
 |------------|--------|
