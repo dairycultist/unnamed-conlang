@@ -1,9 +1,5 @@
-# Arabic 2
+# unnamed conlang
 
-https://en.wikipedia.org/wiki/Arabic_script#Overview
+I like \[dr\]
 
-vowels are unwritten, cry
-
-milad (name of language/its people): ملد
-
-kun: كن 
+![Swedish text](https://www.language-museum.com/encyclopedia/s/swedish.gif)
