@@ -6,9 +6,13 @@ Max syllable structure is CVC or s\[p,t,k,b,d,g]rVC
 
 I like \[dr\]
 
-Spreken / language
+spreken / language
 
-Mej / tree, wood
+mej / tree, wood
+
+man / man
+
+drol / woman
 
 Méj ídrums toj. / I adore you
 
