@@ -1,6 +1,14 @@
 # unnamed conlang
 
+A posteriori funlang
+
+Max syllable structure is CVC or s\[p,t,k,b,d,g]rVC
+
 I like \[dr\]
+
+Spreken / language
+
+Mej / tree, wood
 
 Méj ídrums toj. / I adore you
 
