@@ -2,19 +2,17 @@
 
 I like \[dr\]
 
-Méj ídruns toj. / I adore you
+Méj ídrums toj. / I adore you
 
-Méj ídrunse. / I adore myself
+Méj ídrumse. / I adore myself
 
-a, á = /a(ː)/
-
-i, í = /i(ː)/
-
-u, ú = /u(ː)/
-
-e, é = /ɛ, eː/
-
-o, ó = /ɔ, oː/
+| Orth.| IPA     |
+|------|---------|
+| a, á | /a(ː)/  |
+| i, í | /i(ː)/  |
+| u, ú | /u(ː)/  |
+| e, é | /ɛ, eː/ |
+| o, ó | /ɔ, oː/ |
 
 ![Swedish text](https://www.language-museum.com/encyclopedia/s/swedish.gif)
 ![Baltic Old Prussian text](https://qph.cf2.quoracdn.net/main-qimg-a18f060e67ab881859178ef28e4c149b-pjlq)
