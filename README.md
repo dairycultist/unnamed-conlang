@@ -1,13 +1,13 @@
 # unnamed conlang
 
 ```
-tiki mofu warute
+tiki pomu warute
 fish eat like.IND
 "I like eating fish"
 ```
 
 verb lemmas are gerunds, -te makes it an indicative
 
-voice stops -> nasals / V_V
+voiced stops -> nasals / V_V
 
 ka + ba -> kama
