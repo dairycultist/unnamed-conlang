@@ -3,7 +3,7 @@
 A conlang
 
 ```
-tiki pomu warute
+tikit pomut walute
 fish eat like.IND
 "I like eating fish"
 ```
@@ -28,4 +28,8 @@ CV / C#
 -t Acc
 Dat
 -n Gen/Loc
+
+tiki = fish
 oselo = cat
+pomu = eating
+walu = liking
