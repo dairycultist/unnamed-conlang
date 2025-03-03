@@ -4,29 +4,29 @@ A conlang
 
 ```
 tikit pomut walute
-fish eat like.IND
+fish.ACC eat.ACC like.IND
 "I like eating fish"
 ```
-
-p t k
-
-b~m d~n g~ŋ
-
-s
-
-l
+| Lab | Alv | Vel |
+|---|---|---|
+| p | t | k |
+| b\~m | d\~n | g\~ŋ |
+|| s ||
+|| l ||
 
 verb lemmas are gerunds, -te makes it an indicative
 
 voiced stops -> nasals / V_V
 
-ka + ba -> kama
+\[ka + ba] -> \[kama]
 
 CV / C#
 
--Ø -Nom
+-te Indicative
+
+-Ø Nom
 -t Acc
-Dat
+-? Dat
 -n Gen/Loc
 
 tiki = fish
