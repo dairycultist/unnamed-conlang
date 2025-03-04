@@ -22,7 +22,9 @@ Oselo bokemoke kinet walute.
 I like the cat's laughter. (Lit. I like the cat saying a laughing sound)
 ```
 
-To turn a sentence into an embedded clause, remove the indicative marker on the main verb and inflect it in the accusative case.
+To turn a sentence into an embedded clause, remove the indicative marker on the main verb and inflect it in:
+- The accusative case in ~`S S' V` structures (I like to eat fish)
+- The genitive case in ~`S' N` structures (cats that eat fish)
 
 ## Phonology
 
