@@ -8,15 +8,17 @@ SOV
 
 ```
 Tikit pomut walute.
-(1st.NOM) fish.ACC eat.ACC like.IND
+(1st.NOM) fish.ACC eat.GER.ACC like.IND
 "I like eating fish"
 ```
 
 ```
-Oselo pokemoke kinete.
+Oselo bokemoke kinete.
+cat.NOM laughter.IDEO say.IND
 The cat is laughing. (Lit. The cat says a laughing sound)
 
-Oselo pokemoke kinet walute.
+Oselo bokemoke kinet walute.
+cat.NOM laughter.IDEO say.GER.ACC like.IND
 I like he cat's laughter. (Lit. I like the cat saying a laughing sound)
 ```
 
@@ -43,11 +45,11 @@ CV / C#
 
 verb lemmas are gerunds, -te makes it an indicative
 
-pomu = eating
+pomu = eat
 
-walu = liking
+walu = like
 
-kine = saying
+kine = say
 
 ## Nouns
 
@@ -67,4 +69,4 @@ oselo = cat
 
 Ideophones can only occur as the object in "you say _" phrases, and are not marked for case.
 
-pokemoke = the sound of laughter
+bokemoke = the sound of laughter
