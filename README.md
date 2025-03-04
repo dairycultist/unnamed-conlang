@@ -8,7 +8,7 @@ SOV
 
 ```
 Tikit pomut walute.
-(1st.NOM) fish.ACC eat.GER.ACC like.IND
+(1st.NOM) [ fish.ACC eat.GER.ACC ] like.IND
 "I like eating fish"
 ```
 
@@ -18,7 +18,7 @@ cat.NOM laughter.IDEO say.IND
 The cat is laughing. (Lit. The cat says a laughing sound)
 
 Oselo bokemoke kinet walute.
-(1st.NOM) cat.NOM laughter.IDEO say.GER.ACC like.IND
+(1st.NOM) [ cat.NOM laughter.IDEO say.GER.ACC ] like.IND
 I like the cat's laughter. (Lit. I like the cat saying a laughing sound)
 ```
 
