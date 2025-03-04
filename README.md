@@ -2,6 +2,8 @@
 
 A conlang
 
+## Syntax
+
 SOV
 
 ```
@@ -11,12 +13,14 @@ Tikit pomut walute.
 ```
 
 ```
-Oselo poke kinete.
+Oselo pokemoke kinete.
 The cat is laughing. (Lit. The cat says a laughing sound)
 
-Oselo poke kinet walute.
+Oselo pokemoke kinet walute.
 I like he cat's laughter. (Lit. I like the cat saying a laughing sound)
 ```
+
+## Phonology
 
 | Lab | Alv | Vel |
 |---|---|---|
@@ -24,8 +28,6 @@ I like he cat's laughter. (Lit. I like the cat saying a laughing sound)
 | b\~m | d\~n | g\~ŋ |
 || s ||
 || l ||
-
-verb lemmas are gerunds, -te makes it an indicative
 
 voiced stops -> nasals / V_V
 
@@ -35,7 +37,17 @@ CV / C#
 
 ## Verbs
 
+-Ø Gerundal
+
 -te Indicative
+
+verb lemmas are gerunds, -te makes it an indicative
+
+pomu = eating
+
+walu = liking
+
+kine = saying
 
 ## Nouns
 
@@ -47,18 +59,12 @@ CV / C#
 
 -n Gen/Loc
 
-Ideophones can only occur as the object in "you said _" phrases, and are not marked for case
-
-## Lexicon
-
 tiki = fish
 
 oselo = cat
 
-pomu = eating
+## Ideophones
 
-walu = liking
+Ideophones can only occur as the object in "you say _" phrases, and are not marked for case.
 
-poke = the sound of laughter
-
-kine = saying
+pokemoke = the sound of laughter
