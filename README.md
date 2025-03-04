@@ -18,8 +18,8 @@ cat.NOM laughter.IDEO say.IND
 The cat is laughing. (Lit. The cat says a laughing sound)
 
 Oselo bokemoke kinet walute.
-cat.NOM laughter.IDEO say.GER.ACC like.IND
-I like he cat's laughter. (Lit. I like the cat saying a laughing sound)
+(1st.NOM) cat.NOM laughter.IDEO say.GER.ACC like.IND
+I like the cat's laughter. (Lit. I like the cat saying a laughing sound)
 ```
 
 ## Phonology
