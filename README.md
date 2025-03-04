@@ -59,13 +59,12 @@ kine = say
 
 ## Nouns
 
--Ø Nom
-
--t Acc
-
--? Dat
-
--n Gen/Loc
+| Affix | Meaning |
+|-|-|
+| -Ø | Nom |
+| -t | Acc |
+| -s | Dat |
+| -n | Gen/Loc |
 
 tiki = fish
 
