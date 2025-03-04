@@ -42,12 +42,14 @@ voiced stops -> nasals / V_V
 CV / C#
 
 ## Verbs
+| Affix | Meaning |
+|-|-|
+| -Ø | Gerund |
+| -te | Indicative |
+| -? | Dubitative (since I like hedging) |
+| -? | Imperative |
 
--Ø Gerundal
-
--te Indicative
-
-verb lemmas are gerunds, -te makes it an indicative
+Verb lemmas are gerunds (nouns), but inflecting mood changes it to a verb.
 
 pomu = eat
 
