@@ -13,14 +13,15 @@ C1C2 -> C2ː / _#
 Pol = Poland
 Ponn = in/of Poland
 Poloshka = Pole
+Poloshkēn = Poles
 Doi = Germany 
 Doin = in/of Germany 
 Doishka = German
-Doishken = Germans
+Doishkēn = Germans
 fruh [fru] = cat
 fruhen [fruhen] = cats
 frunn [frunː] = of a cat
-fruhoshken = kittens
+fruhoshkēn = kittens
 rosti = meat
 rostoshka = sausage
 ```
