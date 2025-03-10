@@ -13,15 +13,17 @@ Phonological rules (they don't occur in some loanwords)
 -en / plural
 -(o)shka / diminuitive or 'person from'
 
-Pol = Poland
+Pol = Poland (nom)
+Pott = Poland (acc)
 Ponn = in/of Poland
 Poloshka = Pole
 Poloshkēn = Poles
 
-Doi = Germany 
+Doi = Germany (nom)
 Doin = in/of Germany 
 Doishka = German
 Doishkēn = Germans
+Doishkēnn = of Germans
 
 fruh [fru] = cat
 fruhen [fruhen] = cats
