@@ -1,8 +1,8 @@
+Max syllable structure is `CVːCː`
+
 Phonological rules (they don't occur in some loanwords)
-
-V1V2 -> V2ː
-
-C1C2 -> C2ː / _#
+- `V1V2 -> V2ː`
+- `C1C2 -> C2ː / _#`
 
 ```
 -Ø / nominative
@@ -29,5 +29,5 @@ frunn [frunː] = of a cat
 fruhoshkēn = kittens
 
 rott [rotː] /rost/ = meat
-rostoshka = sausage
+rostoshka [rostoʃka] = sausage
 ```
