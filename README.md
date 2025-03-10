@@ -1,8 +1,9 @@
 Max syllable structure is `CVːCː`
 
-Phonological rules (they don't occur in some loanwords)
-- `V1V2 -> V2ː`
-- `C1C2 -> C2ː / _#`
+Phonological rules (exceptions are in some loanwords)
+- `V1V2 -> V2ː` (reflected in orth)
+- `C1C2 -> C2ː / _#` (reflected in orth)
+- `h -> Ø / _#` (***not*** reflected in orth)
 
 ```
 -Ø / nominative
