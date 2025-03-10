@@ -22,6 +22,6 @@ fruh [fru] = cat
 fruhen [fruhen] = cats
 frunn [frunː] = of a cat
 fruhoshkēn = kittens
-rosti = meat
+ross [rosː] /rost/ = meat
 rostoshka = sausage
 ```
