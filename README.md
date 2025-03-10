@@ -25,9 +25,10 @@ Doishka = German
 Doishkēn = Germans
 Doishkēnn = of Germans
 
-fruh [fru] = cat
+fruh [fru] /fruh/ = cat
 fruhen [fruhen] = cats
 frunn [frunː] = of a cat
+fruhenn [fruhenː] = of cats
 fruhoshkēn = kittens
 
 rott [rotː] /rost/ = meat
