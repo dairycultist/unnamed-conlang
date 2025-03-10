@@ -1,3 +1,9 @@
+Phonological rules (they don't occur in some loanwords)
+
+V1V2 -> V2ː
+
+C1C2 -> C2ː / _#
+
 ```
 -Ø / nominative
 -t / accusative
@@ -6,9 +12,6 @@
 
 -en / plural
 -(o)shka / diminuitive or 'person from'
-
-V1V2 -> V2ː
-C1C2 -> C2ː / _#
 
 Pol = Poland
 Ponn = in/of Poland
