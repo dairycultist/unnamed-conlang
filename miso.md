@@ -4,8 +4,9 @@ Function words and inflections are written in hiragana
 
 Like Toki Pona, words can be nouns or verbs depending on context
 
-| Initial consonant | Character |
+| Onset | Character |
 |-|-|
+| * | あえいおう |
 | p | はへひほふ |
 | t | たてちとつ |
 | k | かけきこく |
