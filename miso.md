@@ -4,14 +4,19 @@ Function words and inflections are written in hiragana
 
 Like Toki Pona, words can be nouns or verbs depending on context
 
+```
+食す / eat
+食せす / ate
+```
+
 CV
 
-食る mokuru / to eat
+`食 moku` / food (v. eat)
 
-月る yuru / to sleep
+`月 yu` / night (v. sleep)
 
-日る moru / to wake up
+`日 mo` / day (v. wake up)
 
-行る kasaeru / to go
+`行 kasae` / movement (v. go)
 
-語る misoru / to speak
+`語 miso` / language (v. speak)
