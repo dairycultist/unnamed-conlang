@@ -1,7 +1,10 @@
+To offset the dissonance caused by remapping Japanese characters when I'm not even fluent in Japanese, I'm writing this entire article in Japanese.
+
 Content words are written in kanji
 
 Function words and inflections are written in hiragana
 
+単語もToki Ponaのと同じように
 Like Toki Pona, words can be nouns or verbs depending on context
 
 | Onset | Character |
@@ -15,7 +18,7 @@ Like Toki Pona, words can be nouns or verbs depending on context
 | s | させしそす | 
 | j | やゑゐよゆ |
 
-Japanese allophony doesn't exist - for example, ち is pronounced \[ti].
+日本語の異音はいないよ。例えば、「ち」の発音ha\[ti]だ。
 
 ```
 食す / eat
