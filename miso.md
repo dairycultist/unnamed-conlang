@@ -4,19 +4,19 @@ Content words are written in kanji
 
 Function words and inflections are written in hiragana
 
-単語もトキポナで同じように名詞も動詞もですとこができる。
+単語はトキポナで同じように名詞も動詞もですとこができる。
 Like Toki Pona, words can be nouns or verbs depending on context.
 
 | Onset | Character |
-|-|-|
-| * | あえいおう |
-| p | はへひほふ |
-| t | たてちとつ |
-| k | かけきこく |
-| m | まめみもむ |
-| n | なねにのぬ |
-| s | させしそす | 
-| j | やゑゐよゆ |
+|-------|-----------|
+| *     | あえいおう |
+| p     | はへひほふ |
+| t     | たてちとつ |
+| k     | かけきこく |
+| m     | まめみもむ |
+| n     | なねにのぬ |
+| s     | させしそす | 
+| j     | やゑゐよゆ |
 
 日本語の異音はありませんよ。例えば、「ち」の発音は\[ti]です、\[tʃi]ではない
 
