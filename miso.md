@@ -18,7 +18,7 @@ Like Toki Pona, words can be nouns or verbs depending on context
 | s | させしそす | 
 | j | やゑゐよゆ |
 
-日本語の異音はいないよ。例えば、「ち」の発音ha\[ti]だ。
+日本語の異音はありませんよ。例えば、「ち」の発音は\[ti]です、\[tʃi]ではない
 
 ```
 食す / eat
