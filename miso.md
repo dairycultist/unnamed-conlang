@@ -27,7 +27,7 @@ Like Toki Pona, words can be nouns or verbs depending on context
 
 CV
 
-`食 moku` / food (v. eat)
+`食 moku`・（名詞）食べ物 ；（動詞）食べる
 
 `月 ju` / night (v. sleep)
 
