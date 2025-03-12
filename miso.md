@@ -3,11 +3,11 @@
 
 内容語
 
+Content words are written in kanji.
+
 機能語も接辞も
 
-Content words are written in kanji
-
-Function words and inflections are written in hiragana (because these are closed classes, not all hiragana characters are used).
+Function words and affixes are written in hiragana (because these are closed classes, not all hiragana characters are used).
 
 トキポナと同じように、単語は文脈によって名詞にも動詞にもできる。
 
