@@ -1,4 +1,5 @@
-To offset the dissonance caused by remapping Japanese characters when I'm not even fluent in Japanese, I'm writing this entire article in Japanese.
+> [!NOTE]
+> To offset the dissonance caused by remapping Japanese characters when I'm not even fluent in Japanese, I'm writing this entire reference grammar in Japanese (aside from this note).
 
 Content words are written in kanji
 
