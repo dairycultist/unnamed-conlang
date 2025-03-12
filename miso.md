@@ -3,15 +3,24 @@
 
 内容語
 
-Content words are written in kanji.
+Content words are written in hiragana.
 
 機能語も接辞も
 
-Function words and affixes are written in hiragana (because these are closed classes, not all hiragana characters are used).
+Function words and affixes are written in kanji.
 
 トキポナと同じように、単語は文脈によって名詞にも動詞にもできる。
 
-/p t k m n s j/
+| Onset | Character |
+|-------|-----------|
+| *     | あえいおう |
+| p     | はへひほふ |
+| t     | たてちとつ |
+| k     | かけきこく |
+| m     | まめみもむ |
+| n     | なねにのぬ |
+| s     | させしそす |
+| j     | やゑゐよゆ |
 
 日本語の異音はありませんよ。例えば、「ち」の発音は\[ti]です、\[tɕi]ではない。
 
@@ -20,11 +29,14 @@ Function words and affixes are written in hiragana (because these are closed cla
 食せす / ate
 ```
 
+みそ有
+みそ止
+
 CV
 | 単語         | 名詞の意味 | 動詞の意味 |
 |-------------|-----------|----------|
-| `食 [moku]` | 食べ物      | 食べる   |
-| `月 [ju]`   | 夜         | 寝る     |
-| `日 [mo]`   | 日         | 起きる   |
-| `行 [kasae]`| 動き       | 行く     |
-| `語 [miso]` | 言語       | 話す     |
+| `もく`       | 食べ物      | 食べる   |
+| `ゆ`         | 夜         | 寝る     |
+| `も`         | 日         | 起きる   |
+| `かさえ`      | 動き       | 行く     |
+| `みそ`        | 言語       | 話す     |
