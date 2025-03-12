@@ -29,10 +29,10 @@ CV
 
 `食 moku`・（名詞）食べ物 ；（動詞）食べる
 
-`月 ju` / night (v. sleep)
+`月 ju`・（名詞）夜；（動詞）寝る
 
-`日 mo` / day (v. wake up)
+`日 mo`・（名詞）日；（動詞）起きる
 
-`行 kasae` / movement (v. go)
+`行 kasae`・（名詞）動き；（動詞）行く
 
-`語 miso` / language (v. speak)
+`語 miso`・（名詞）言語；（動詞）話す
