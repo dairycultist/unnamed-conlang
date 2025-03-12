@@ -1,13 +1,7 @@
 > [!NOTE]
 > To offset the dissonance caused by remapping Japanese characters when I'm not even fluent in Japanese, I'm writing this entire reference grammar in Japanese (aside from this note).
 
-内容語
-
-Content words are written in hiragana.
-
-機能語も接辞も
-
-Function words and affixes are written in kanji.
+**内容語**がひらがなで書かれる。**機能語**も**接辞**も漢字で書かれる。
 
 トキポナと同じように、単語は文脈によって名詞にも動詞にもできる。
 
@@ -25,12 +19,9 @@ Function words and affixes are written in kanji.
 日本語の異音はありませんよ。例えば、「ち」の発音は\[ti]です、\[tɕi]ではない。
 
 ```
-食す / eat
-食せす / ate
+もく有（もくす）・食べる
+もく止（もくせ）・食べた
 ```
-
-みそ有
-みそ止
 
 CV
 | 単語         | 名詞の意味 | 動詞の意味 |
