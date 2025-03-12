@@ -1,9 +1,13 @@
 > [!NOTE]
 > To offset the dissonance caused by remapping Japanese characters when I'm not even fluent in Japanese, I'm writing this entire reference grammar in Japanese (aside from this note).
 
+内容語
+
+機能語も接辞も
+
 Content words are written in kanji
 
-Function words and inflections are written in hiragana. Because these are closed classes, not all hiragana characters are used.
+Function words and inflections are written in hiragana (because these are closed classes, not all hiragana characters are used).
 
 トキポナと同じように、単語は文脈によって名詞にも動詞にもできる。
 
