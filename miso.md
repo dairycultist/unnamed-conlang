@@ -9,7 +9,7 @@ Function words and inflections are written in hiragana. Because these are closed
 
 /p t k m n s j ʔ/
 
-日本語の異音はありませんよ。例えば、「ち」の発音は\[ti]です、\[tʃi]ではない
+日本語の異音はありませんよ。例えば、「ち」の発音は\[ti]です、\[tɕi]ではない。
 
 ```
 食す / eat
