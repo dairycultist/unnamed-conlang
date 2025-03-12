@@ -4,9 +4,7 @@ Content words are written in kanji
 
 Function words and inflections are written in hiragana. Because these are closed classes, not all hiragana characters are used.
 
-単語はトキポナで同じように名詞も動詞もですとこができる。
-
-Like Toki Pona, words can be nouns or verbs depending on context.
+トキポナと同じように、単語は文脈によって名詞にも動詞にもできる。
 
 /p t k m n s j ʔ/
 
