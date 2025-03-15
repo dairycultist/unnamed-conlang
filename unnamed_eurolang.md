@@ -1,8 +1,25 @@
+```
+person clitics
+mem- / 1st
+jen- / 2nd
+es- / 3rd proximate (animate or inanimate!)
+as- / 3rd distal
+
+anol / to love
+se / copula
+
+Esse glor, asse muj glor.
+"that/they is bigger than this/them." (this is big, that is very big)
+
+Asanol jen, memmuj anol jen.
+"I love you more than them." (they love you, I more love you; notice cliticization is now on the adverb)
+```
+
 Max syllable structure is `CVːCː`
 
 Phonological rules (exceptions are in some loanwords)
 - `V1V2 -> V2ː` (reflected in orth)
-- `C1C2 -> C2ː / _#` (reflected in orth)
+- `C1C2 -> C2ː / _#` (reflected in orth) *(maybe do everywhere instead?)*
 - `h -> Ø / _#` (***not*** reflected in orth)
 
 ```
