@@ -21,8 +21,9 @@ Max syllable structure is `CVːCː`
 
 Phonological rules (exceptions are in some loanwords)
 - `V1V2 -> V2ː` (reflected in orth)
-- `C1C2 -> C2ː / _#` (reflected in orth) *(maybe do everywhere instead?)*
+- `C1C2 -> C2ː / _#` (reflected in orth)
 - `h -> Ø / _#` (***not*** reflected in orth)
+- need rule for voicing assimilation
 
 ```
 -Ø / nominative
