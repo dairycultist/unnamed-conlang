@@ -7,6 +7,8 @@ as- / 3rd distal
 
 anol / to love
 se / copula
+muj / very, more/comparitive
+glor / big
 
 Esse glor, asse muj glor.
 "that/they is bigger than this/them." (this is big, that is very big)
