@@ -1,13 +1,13 @@
 ```
-person clitics
+pronouns (cliticize onto following VP, if any)
 mem- / 1st
 jen- / 2nd
-es- / 3rd proximate (animate or inanimate!)
-as- / 3rd distal
+es-  / 3rd proximate (animate or inanimate!)
+as-  / 3rd distal
 
 anol / to love
-se / copula
-muj / very, more/comparitive
+se   / copula
+muj  / very, more/comparitive
 glor / big
 
 Esse glor, asse muj glor.
