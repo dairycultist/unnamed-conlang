@@ -5,6 +5,7 @@ Pronouns have a special rule where they will cliticize onto following VP (if any
 3rd person pronouns are also demonstratives; they can stand in for English he, she, they, it, these, those, this, or that.
 
 | Form | Meaning |
+|-|-|
 | mem | 1st |
 | jen | 2nd |
 | es  | 3rd proximate |
