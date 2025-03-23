@@ -20,13 +20,17 @@ Voiced obstruents are devoiced word-finally, when geminated, and when in the con
 
 `Ss [ʃ]`
 
+`Ee [ə]`
+
+`Éé [e]`
+
 ```
 HEDDESTRUẞE
 heddestruße
 [ˈxətːəˌʃtrusə]
 ```
 
-`udel [udel] 'language'`
+`udél [udel] 'language'`
 
 `gonẞig [gonsik]`
 
