@@ -16,7 +16,9 @@ verbs agree in person
 
 `-g [k] 1st person`
 
-`-k [k] 1st person`
+`-m [m] 2nd person`
+
+`-k [k] 3rd person`
 
 ## Phonology
 
@@ -49,6 +51,8 @@ heddestruße
 `gans [ganʃ] 'car'`
 
 `gan [gan] 1st person singular`
+
+`man [man] 2nd person singular`
 
 `ke [kə] 3rd person singular`
 
