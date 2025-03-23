@@ -12,6 +12,8 @@ pro drop and cop drop
 
 ## Morphology
 
+### Inflectional
+
 verbs agree in person and number
 
 `-g [k] 1st person singular`
@@ -19,6 +21,10 @@ verbs agree in person and number
 `-m [m] 2nd person singular`
 
 `-k [k] 3rd person singular`
+
+Note that the 1st and 3rd person singular are identical.
+
+### Derivational
 
 ## Phonology
 
