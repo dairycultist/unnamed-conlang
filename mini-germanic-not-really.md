@@ -1,13 +1,15 @@
+## Phonology
+
 ```
 HEDDESTRUẞE
 heddestruße
 [ˈxətːəˌʃtrusə]
 ```
 
-gonẞig
+`gonẞig [gonsik]`
 
-dresdul
+`dresdul [dreʃtul]`
 
-ganẞ
+`ganẞ [gans]`
 
-voiced obstruents are devoiced word-finally, when geminated, and when in the context of voiceless obstruents. voiceless obstruents, in contrast, are never revoiced
+Voiced obstruents are devoiced word-finally, when geminated, and when in the context of voiceless obstruents. Voiceless obstruents, in contrast, are never revoiced (even in the context of voiced segments).
