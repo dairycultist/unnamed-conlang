@@ -38,6 +38,8 @@ Note that the 1st and 3rd person singular are identical. Also note the irregular
 
 ## Phonology
 
+Gemination is a thing. There are six vowels.
+
 Voiced obstruents are devoiced word-finally, when geminated, and when in the context of voiceless obstruents. Voiceless obstruents, in contrast, are never revoiced (even in the context of voiced segments).
 
 ## Lexicon
@@ -61,6 +63,8 @@ Voiced obstruents are devoiced word-finally, when geminated, and when in the con
 | 3rd person | `ke [kə]`   | `ki [ki]`     |
 
 Note the irregular pluralization of the 3rd person plural.
+
+There also exists a 1st person inclusive dual (i.e. between the speaker and listener), `gamman [gamːan]`.
 
 ### Other
 
