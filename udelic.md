@@ -1,10 +1,14 @@
+# Udelic
+
+mini germanic not really
+
 ## Syntax
 
 postpositional
 
 pro drop
 
-`Gan gans ganẞ. "I (am) in (the/a) car."`
+`Gan gans ganẞ. 'I (am) in (the/a) car.'`
 
 ## Phonology
 
@@ -21,6 +25,8 @@ HEDDESTRUẞE
 heddestruße
 [ˈxətːəˌʃtrusə]
 ```
+
+`udel [udel] 'language'`
 
 `gonẞig [gonsik]`
 
