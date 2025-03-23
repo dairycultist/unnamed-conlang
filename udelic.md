@@ -47,9 +47,7 @@ Voiced obstruents are devoiced word-finally, when geminated, and when in the con
 `Éé [e]`
 
 ```
-HEDDESTRUẞE
-heddestruße
-[ˈxətːəˌʃtrusə]
+HEDDESTRUẞE heddestruße [ˈxətːəˌʃtrusə]
 ```
 
 `udél [udel] 'language'`
@@ -68,4 +66,4 @@ heddestruße
 
 `ke [kə] 3rd person singular`
 
-`va [va] copula`
+`va [va] to be (copula); to live`
