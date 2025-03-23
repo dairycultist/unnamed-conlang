@@ -8,7 +8,15 @@ postpositional
 
 pro drop
 
-`Gan gans ganẞ. 'I (am) in (the/a) car.'`
+`Gan (vag) gans ganẞ. 'I (am) in (the/a) car.'`
+
+## Morphology
+
+verbs agree in person
+
+`-g [k] 1st person`
+
+`-k [k] 1st person`
 
 ## Phonology
 
@@ -41,3 +49,7 @@ heddestruße
 `gans [ganʃ] 'car'`
 
 `gan [gan] 1st person singular`
+
+`ke [kə] 3rd person singular`
+
+`va [va] copula`
