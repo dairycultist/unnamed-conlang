@@ -8,6 +8,8 @@ postpositional
 
 pro drop and cop drop
 
+verbal TAM is indicated within the auxverb(s)
+
 ```
 (Gan) (vag) gans ganẞ.
 1sg be.1sg car in
