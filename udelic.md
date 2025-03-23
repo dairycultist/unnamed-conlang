@@ -42,7 +42,7 @@ Note that the 1st and 3rd person singular are pronounced identically after word-
 
 Gemination is a thing. There are six vowels.
 
-An epenthetic schwa is inserted between illegal clusters (ex. `/gonsig/ + /g/ -> [gonsigək]`
+An epenthetic schwa is inserted between illegal clusters (ex. `/gonsig/ + /g/ -> [gonsigək] 'I learn'`
 
 Voiced obstruents are devoiced word-finally, when geminated, and when in the context of voiceless obstruents. Voiceless obstruents, in contrast, are never revoiced (even in the context of voiced segments).
 
@@ -86,6 +86,6 @@ There also exists a 1st person inclusive dual (i.e. between the speaker and list
 
 `ganẞ 'in'`
 
-`gans'car'`
+`gans 'car'`
 
 `va 'to be' (copula); 'to live'`
