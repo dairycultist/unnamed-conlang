@@ -68,4 +68,10 @@ Voiced obstruents are devoiced word-finally, when geminated, and when in the con
 
 `ke [kə] 3rd person singular`
 
+`gané [gani] 1st person plural`
+
+`mané [mani] 2nd person plural`
+
+`ki [ki] 3rd person plural` (note irregular pluralization)
+
 `va [va] to be (copula); to live`
