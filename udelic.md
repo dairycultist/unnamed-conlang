@@ -14,13 +14,19 @@ pro drop and cop drop
 
 ### Inflectional
 
-verbs agree in person and number
+**nouns** are inflected for number
 
-`-g [k] 1st person singular`
+`-Ø singular`
 
-`-m [m] 2nd person singular`
+`-é [i] plural (note irregular spelling)`
 
-`-k [k] 3rd person singular`
+**verbs** agree in person and number
+
+| | Singular | Plural |
+|-|-|-|
+| 1st person | `-g [k]` | `-gé [gi]` |
+| 2nd person | `-m [m]` | `-mé [mi]` |
+| 3rd person | `-k [k]` | `-ké [ki]` |
 
 Note that the 1st and 3rd person singular are identical.
 
