@@ -1,0 +1,5 @@
+```
+HEDDESTRUẞE
+heddestruße
+['xətːə,ʃtrusə]
+```
