@@ -14,13 +14,13 @@ pro drop and cop drop
 
 ### Inflectional
 
-**nouns** are inflected for number
+**Nouns** are inflected for number.
 
 `-Ø singular`
 
 `-é [i] plural (note irregular spelling)`
 
-**verbs** agree in person and number
+**Verbs** agree with the subject in person and number.
 
 | | Singular | Plural |
 |-|-|-|
