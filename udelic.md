@@ -22,13 +22,13 @@ pro drop and cop drop
 
 **Verbs** agree with the subject in person and number.
 
-| | Singular | Plural |
-|-|-|-|
+|            | Singular | Plural     |
+|------------|----------|------------|
 | 1st person | `-g [k]` | `-gé [gi]` |
 | 2nd person | `-m [m]` | `-mé [mi]` |
 | 3rd person | `-k [k]` | `-ké [ki]` |
 
-Note that the 1st and 3rd person singular are identical.
+Note that the 1st and 3rd person singular are identical, as well as the irregular spelling of the plural forms.
 
 ### Derivational
 
