@@ -30,17 +30,19 @@ verbal TAM is indicated within the auxverb(s)
 
 |            | Singular | Plural     |
 |------------|----------|------------|
-| 1st person | `-g [k]` | `-gé [gi]` |
-| 2nd person | `-m [m]` | `-mé [mi]` |
-| 3rd person | `-k [k]` | `-ké [ki]` |
+| 1st person | `-g /g/` | `-gé /gi/` |
+| 2nd person | `-m /m/` | `-mé /mi/` |
+| 3rd person | `-k /k/` | `-ké /ki/` |
 
-Note that the 1st and 3rd person singular are identical. Also note the irregular spelling of the plural forms.
+Note that the 1st and 3rd person singular are pronounced identically after word-final devoicing. Also note the irregular spelling of the plural forms.
 
 ### Derivational
 
 ## Phonology
 
 Gemination is a thing. There are six vowels.
+
+An epenthetic schwa is inserted between illegal clusters (ex. `/gonsig/ + /g/ -> [gonsigək]`
 
 Voiced obstruents are devoiced word-finally, when geminated, and when in the context of voiceless obstruents. Voiceless obstruents, in contrast, are never revoiced (even in the context of voiced segments).
 
@@ -56,30 +58,32 @@ Voiced obstruents are devoiced word-finally, when geminated, and when in the con
 
 `Éé [e]`
 
+`Hh [x]`
+
 ### Pronouns
 
 |            | Singular    | Plural        |
 |------------|-------------|---------------|
-| 1st person | `gan [gan]` | `gané [gani]` |
-| 2nd person | `man [man]` | `mané [mani]` |
-| 3rd person | `ke [kə]`   | `ki [ki]`     |
+| 1st person | `gan /gan/` | `gané /gani/` |
+| 2nd person | `man /man/` | `mané /mani/` |
+| 3rd person | `ke /kə/`   | `ki /ki/`     |
 
 Note the irregular pluralization of the 3rd person plural.
 
-There also exists a 1st person inclusive dual (i.e. between the speaker and listener), `gamman [gamːan]`.
+There also exists a 1st person inclusive dual (i.e. between the speaker and listener), `gamman /gamːan/`.
 
 ### Other
 
 `HEDDESTRUẞE heddestruße [ˈxətːəˌʃtrusə]`
 
-`udél [udel] 'language'`
+`udél 'language'`
 
-`gonẞig [gonsik]`
+`gonẞig 'to learn'`
 
-`dresdul [dreʃtul]`
+`dresdul`
 
-`ganẞ [gans] 'in'`
+`ganẞ 'in'`
 
-`gans [ganʃ] 'car'`
+`gans'car'`
 
-`va [va] to be (copula); to live`
+`va 'to be' (copula); 'to live'`
