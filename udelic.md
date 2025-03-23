@@ -18,7 +18,7 @@ pro drop and cop drop
 
 `-Ø singular`
 
-`-é [i] plural (note irregular spelling)`
+`-é [i] plural` (note irregular spelling)
 
 **Verbs** agree with the subject in person and number.
 
