@@ -8,7 +8,11 @@ postpositional
 
 pro drop and cop drop
 
-`(Gan) (vag) gans ganẞ. '(I) (am) in the/a car.'`
+```
+(Gan) (vag) gans ganẞ.
+1sg be.1sg car in
+'(I) (am) in the/a car.'
+```
 
 ## Morphology
 
@@ -28,7 +32,7 @@ pro drop and cop drop
 | 2nd person | `-m [m]` | `-mé [mi]` |
 | 3rd person | `-k [k]` | `-ké [ki]` |
 
-Note that the 1st and 3rd person singular are identical, as well as the irregular spelling of the plural forms.
+Note that the 1st and 3rd person singular are identical. Also note the irregular spelling of the plural forms.
 
 ### Derivational
 
@@ -46,9 +50,7 @@ Voiced obstruents are devoiced word-finally, when geminated, and when in the con
 
 `Éé [e]`
 
-```
-HEDDESTRUẞE heddestruße [ˈxətːəˌʃtrusə]
-```
+`HEDDESTRUẞE heddestruße [ˈxətːəˌʃtrusə]`
 
 `udél [udel] 'language'`
 
