@@ -6,19 +6,19 @@ mini germanic not really
 
 postpositional
 
-pro drop
+pro drop and cop drop
 
-`Gan (vag) gans ganẞ. 'I (am) in (the/a) car.'`
+`(Gan) (vag) gans ganẞ. '(I) (am) in the/a car.'`
 
 ## Morphology
 
-verbs agree in person
+verbs agree in person and number
 
-`-g [k] 1st person`
+`-g [k] 1st person singular`
 
-`-m [m] 2nd person`
+`-m [m] 2nd person singular`
 
-`-k [k] 3rd person`
+`-k [k] 3rd person singular`
 
 ## Phonology
 
