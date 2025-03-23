@@ -42,6 +42,8 @@ Voiced obstruents are devoiced word-finally, when geminated, and when in the con
 
 ## Lexicon
 
+### Orth
+
 `ẞß [s]`
 
 `Ss [ʃ]`
@@ -49,6 +51,18 @@ Voiced obstruents are devoiced word-finally, when geminated, and when in the con
 `Ee [ə]`
 
 `Éé [e]`
+
+### Pronouns
+
+|            | Singular    | Plural        |
+|------------|-------------|---------------|
+| 1st person | `gan [gan]` | `gané [gani]` |
+| 2nd person | `man [man]` | `mané [mani]` |
+| 3rd person | `ke [kə]`   | `ki [ki]`     |
+
+Note the irregular pluralization of the 3rd person plural.
+
+### Other
 
 `HEDDESTRUẞE heddestruße [ˈxətːəˌʃtrusə]`
 
@@ -61,17 +75,5 @@ Voiced obstruents are devoiced word-finally, when geminated, and when in the con
 `ganẞ [gans] 'in'`
 
 `gans [ganʃ] 'car'`
-
-`gan [gan] 1st person singular`
-
-`man [man] 2nd person singular`
-
-`ke [kə] 3rd person singular`
-
-`gané [gani] 1st person plural`
-
-`mané [mani] 2nd person plural`
-
-`ki [ki] 3rd person plural` (note irregular pluralization)
 
 `va [va] to be (copula); to live`
