@@ -51,7 +51,7 @@ Uninflected verbs (lemma form) are nominal, ex. `gan agrug gonẞig 'I like lear
 
 Gemination is a thing. There are six vowels /a, e, i, o, u, ə/.
 
-An epenthetic schwa is inserted between illegal clusters (ex. `/gonsig/ + /g/ -> [gonsigək] 'I learn'`
+An epenthetic schwa is inserted between illegal clusters (ex. `/gonsig/ + /g/ -> [gonsigək] 'I learn'` and `dansk [danəʃk] 'Dane' / danské [danʃki] 'Danes'`)
 
 Voiced obstruents are devoiced word-finally, when geminated, and when in the context of voiceless obstruents. Voiceless obstruents, in contrast, are never revoiced (even in the context of voiced segments).
 
