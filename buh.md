@@ -1,17 +1,19 @@
+Predominantly oral language
 
 ```
-p t tj k
-b d dj g
-    ts
+p t c k
+b d ɟ g
 f s         h
 v z
   l,ł
   r
 
-kołaj
-djeb
-tsev
-bodjár
+/c/ is strongly aspirated and may surface as [tsʰʲ]
+
+/kołaj/
+/ɟeb/
+/cev/
+/boɟar/
 ```
 
 https://en.wikipedia.org/wiki/Romani_language
