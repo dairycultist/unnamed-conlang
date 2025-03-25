@@ -4,7 +4,7 @@ mini germanic not really
 
 ## Syntax
 
-postpositional
+head-final (postpositional, NP -> PP AdjP N)
 
 pro drop and cop drop
 
