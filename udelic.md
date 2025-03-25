@@ -88,6 +88,7 @@ udél    'language'
 gonẞig  'to learn'
 agru    'to like'
 fuj     'land'
+kul     'clean'
 dresdul
 dom     'person'
 ganẞ    'in'
