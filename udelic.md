@@ -86,6 +86,8 @@ There also exists a 1st person inclusive dual (i.e. between the speaker and list
 
 `agru 'to like'`
 
+`fuj 'land'`
+
 `dresdul`
 
 `ganẞ 'in'`
