@@ -36,6 +36,8 @@ verbal TAM is indicated within the auxverb(s)
 
 Note that the 1st and 3rd person singular are pronounced identically after word-final devoicing. Also note the irregular spelling of the plural forms.
 
+Uninflected verbs (lemma form) are nominal, ex. `gan agrug gonẞig 'I like learning'`
+
 ### Derivational
 
 ## Phonology
@@ -81,6 +83,8 @@ There also exists a 1st person inclusive dual (i.e. between the speaker and list
 `udél 'language'`
 
 `gonẞig 'to learn'`
+
+`agru 'to like'`
 
 `dresdul`
 
