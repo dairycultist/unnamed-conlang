@@ -8,7 +8,7 @@ v z
   l,ł
   r
 
-/c/ is strongly aspirated and may surface as [tsʰʲ]
+/c/ is strongly aspirated and may surface as [tsʰʲ~cçʰ]
 
 /kołaj/
 /ɟeb/
