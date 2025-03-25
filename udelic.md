@@ -80,18 +80,13 @@ There also exists a 1st person inclusive dual (i.e. between the speaker and list
 
 `HEDDESTRUẞE heddestruße [ˈxətːəˌʃtrusə]`
 
-`udél 'language'`
-
-`gonẞig 'to learn'`
-
-`agru 'to like'`
-
-`fuj 'land'`
-
-`dresdul`
-
-`ganẞ 'in'`
-
-`gans 'car'`
-
-`va 'to be' (copula); 'to live'`
+```
+udél    'language'
+gonẞig  'to learn'
+agru    'to like'
+fuj     'land'
+dresdul
+ganẞ    'in'
+gans    'car'
+va      'to be' (copula); 'to live'
+```
