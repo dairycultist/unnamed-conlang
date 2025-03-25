@@ -14,6 +14,9 @@ verbal TAM is indicated within the auxverb(s)
 (Gan) (vag) gans ganẞ.
 1sg be.1sg car in
 '(I) (am) in the/a car.'
+
+Gan agrug gans ganẞ domé.
+'I like the people in the car.'
 ```
 
 ## Morphology
@@ -86,6 +89,7 @@ gonẞig  'to learn'
 agru    'to like'
 fuj     'land'
 dresdul
+dom     'person'
 ganẞ    'in'
 gans    'car'
 va      'to be' (copula); 'to live'
