@@ -6,13 +6,13 @@ mini germanic not really
 
 head-final
 ```
-NP -> PP AdjP N
+NP -> (PP) (AdjP) N
 PP -> NP Post
 ```
 
 pro drop and cop drop
 
-verbal TAM is indicated within the auxverb(s)
+verbal TAM is indicated within the auxverb(s) (I'll figure this out later)
 
 ```
 (Gan) (vag) gans ganẞ.
@@ -49,7 +49,7 @@ Uninflected verbs (lemma form) are nominal, ex. `gan agrug gonẞig 'I like lear
 
 ## Phonology
 
-Gemination is a thing. There are six vowels.
+Gemination is a thing. There are six vowels /a, e, i, o, u, ə/.
 
 An epenthetic schwa is inserted between illegal clusters (ex. `/gonsig/ + /g/ -> [gonsigək] 'I learn'`
 
@@ -93,6 +93,7 @@ gonẞig  'to learn'
 agru    'to like'
 fuj     'land'
 kul     'clean'
+kol     'bad'
 drésdul
 dom     'person'
 ganẞ    'in'
