@@ -14,7 +14,7 @@ sz ʃʒ çʝ xɣ χʁ hɦ
 
 i ɨ ɯ
 a ɐ ɑ
-([a ɑ] are raised to [ɛ ʌ] medially)
+([a ɐ ɑ] are raised to [ɛ ɜ ʌ] medially)
 ```
 
 highly synthetic
