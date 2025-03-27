@@ -11,7 +11,9 @@ Dror \[dʒʌʒ] is spoken by mechanical semi-organic constructs. Low Dror is a d
 td    cɟ kɡ qɢ
 sz ʃʒ çʝ xɣ χʁ hɦ
 
-i ɯ a ɑ (latter are raised to [ɛ ʌ] medially)
+i ɯ
+a ɑ
+([a ɑ] are raised to [ɛ ʌ] medially)
 ```
 
 highly synthetic
