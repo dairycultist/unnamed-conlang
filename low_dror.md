@@ -12,8 +12,8 @@ Physiology
 td    cɟ kɡ qɢ
 sz ʃʒ çʝ xɣ χʁ hɦ
 
-i ɯ
-a ɑ
+i ɨ ɯ
+a ɐ ɑ
 ([a ɑ] are raised to [ɛ ʌ] medially)
 ```
 
