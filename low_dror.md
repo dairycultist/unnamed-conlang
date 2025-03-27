@@ -1,4 +1,4 @@
-Dror \[dʒʌʒ] is spoken by mechanical semi-organic constructs. Low Dror is a dialect spoken _. It is oral/unwritten.
+Dror (_endonym:_ \[dʒʌʒ]) is spoken by mechanical semi-organic constructs. Low Dror is a dialect spoken by labourers in the Low Valley. It is oral/unwritten.
 
 - they no eep
 - they don't have noses, lips, or teeth, do have tongues tho
