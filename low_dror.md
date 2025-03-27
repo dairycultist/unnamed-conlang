@@ -1,11 +1,12 @@
 Dror (_endonym:_ \[dʒʌʒ]) is spoken by mechanical semi-organic constructs. Low Dror is a dialect spoken by labourers in the Low Valley. It is oral/unwritten.
 
-- they no eep
-- they don't have noses, lips, or teeth, do have tongues tho
-- they are very large, so their airways are very long, making it easy to articulate sounds at any places
-- their tongue can't move very fast so clusters must be homorganic
-- their jaw can't move very fast so medial vowels tend to be raised to be closer to consonant articulation
-- they can replicate voicing
+Physiology
+- They don't sleep
+- They don't have noses, lips, or teeth; they do have tongues though
+- They are very large, so their airways are very long, making it easy to articulate sounds at many places
+- Their tongue can't move very fast so clusters must be homorganic
+- Their jaw can't move very fast so medial vowels tend to be raised to be closer to consonant articulation
+- They can replicate voicing
 
 ```
 td    cɟ kɡ qɢ
