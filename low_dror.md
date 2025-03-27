@@ -2,7 +2,7 @@ Dror (_endonym:_ \[dʒʌʒ]) is spoken by mechanical semi-organic constructs. Lo
 
 Physiology
 - They don't sleep
-- They don't have noses, lips, or teeth; they do have tongues though
+- They don't have noses (no nasal consonants/vowels), lips (no labial consonants or rounded vowels), or teeth (no dental consonants); they do have tongues though
 - They are very large, so their airways are very long, making it easy to articulate sounds at many places
 - Their tongue can't move very fast so clusters must be homorganic
 - Their jaw can't move very fast so medial vowels tend to be raised to be closer to consonant articulation
