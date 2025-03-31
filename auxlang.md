@@ -1,5 +1,7 @@
 mulānī ana. ālāli
 
+āswalū
+
 fani
 
 īņahali
