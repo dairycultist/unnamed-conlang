@@ -2,6 +2,8 @@ mulānī ana. ālāli
 
 āswalū
 
+țutu
+
 fani
 
 īņahali
