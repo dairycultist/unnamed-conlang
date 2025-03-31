@@ -2,6 +2,8 @@ mulānī ana. ālāli
 
 fani
 
+īņahali
+
 talim
 
 kāsil
