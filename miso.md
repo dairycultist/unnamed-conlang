@@ -7,6 +7,8 @@ https://en.wikipedia.org/wiki/Serial_verb_construction
 
 Two or more verbs may appear consecutively within the same clause, with no linking word (like "and") or anything else to indicate that one verb is subordinate to the other. The subject is understood to apply to both verbs. Such constructions can encode a singular event, as well concurrent or causally-related events.
 
+I car sit go restaurant enter food eat. "I drive to the restaurant to eat food."
+
 主格、対格
 
 ## 音韻論と表記法
