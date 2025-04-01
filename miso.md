@@ -1,3 +1,5 @@
+# 僕の人工言語の文法
+
 > [!NOTE]
 > This is an a posteriori auxlang.
 
@@ -5,7 +7,7 @@ https://en.wikipedia.org/wiki/Serial_verb_construction
 
 Two or more verbs may appear consecutively within the same clause, with no linking word (like "and") or anything else to indicate that one verb is subordinate to the other. The subject is understood to apply to both verbs. Such constructions can encode a singular event, as well concurrent or causally-related events.
 
-# 僕の人工言語の文法
+主格、対格
 
 ## 音韻論と表記法
 
@@ -35,8 +37,6 @@ Two or more verbs may appear consecutively within the same clause, with no linki
 | ため         | 食べる |
 
 ## 接辞
-
-主格、対格
 
 | 接辞 | 意味         |
 |-----|-------------|
