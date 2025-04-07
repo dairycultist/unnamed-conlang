@@ -1,5 +1,3 @@
-stress falls on the penult of the *word* unless otherwise indicated with a grave accent
-
 ## Phonology and Orthography
 ```
 m     n
@@ -9,11 +7,13 @@ p b   t d        k g
 f     s
       r l
 
-ch = \[tʃ]
-z = \[ts]
+ch = [tʃ]
+z = [ts]
 
 a e i o u
 ```
+
+stress falls on the penult of the *word* unless otherwise indicated with a grave accent
 
 ## Examples
 ```
