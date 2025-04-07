@@ -4,8 +4,11 @@ stress falls on the penult of the *word* unless otherwise indicated with a grave
 Bolio achè penze-i-naturo-ze olo.
 store.SG this underwear-of-woman.PL sell
 
-Naturo cu ge folie li sao chepo.
-woman.SG and man.SG house.SG in fish BE
+Naturo cu ge folie li chepo.
+woman.SG and man.SG house.SG in BE
+
+Naturo ochè folie li sao nuche.
+woman.SG that house.SG in fish.SG eat
 ```
 
 ![tree](fish_eat.png)
