@@ -8,7 +8,16 @@ Naturo cu ge folie li chepo.
 woman.SG and man.SG house.SG in BE
 ```
 
+```
+
+p b   t d        k g
+            tʃ
+      ts
+f     s
+      r l
+
 ch = \[tʃ]
 z = \[ts]
+```
 
 5 vowel :3
