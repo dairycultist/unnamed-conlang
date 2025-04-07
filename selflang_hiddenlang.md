@@ -1,8 +1,8 @@
-penult stress unless otherwise indicated with a grave accent
+stress falls on the penult of the *word* unless otherwise indicated with a grave accent
 
 ```
-Bolio achè penze-i-naturo olo.
-store this underwear-of-woman sell
+Bolio achè penze-i-naturo-ze olo.
+store this underwear-of-woman.PL sell
 
 Naturo cu ge folie li chepo.
 woman and man house in BE
