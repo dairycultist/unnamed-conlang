@@ -8,7 +8,7 @@ Naturo cu ge folie li sao chepo.
 woman.SG and man.SG house.SG in fish BE
 ```
 
-!(tree)[fish_eat.png]
+![tree](fish_eat.png)
 
 ```
 m     n
