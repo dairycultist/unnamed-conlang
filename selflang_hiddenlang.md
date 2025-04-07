@@ -9,7 +9,7 @@ woman.SG and man.SG house.SG in BE
 ```
 
 ```
-
+m     n
 p b   t d        k g
             tʃ
       ts
@@ -18,6 +18,6 @@ f     s
 
 ch = \[tʃ]
 z = \[ts]
-```
 
-5 vowel :3
+a e i o u
+```
