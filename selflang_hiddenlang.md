@@ -1,3 +1,5 @@
+highly (only?) analytic
+
 ## Phonology and Orthography
 ```
 m     n
@@ -17,12 +19,26 @@ stress falls on the penult of the *word* unless otherwise indicated with a grave
 
 ## Examples
 ```
-Bolio achè penze-i-naturo-ze olo.
-store.SG this underwear-of-woman.PL sell
-"This store sells women's underwear."
+bolio / store
+folie / house
+naturo / woman
+gepo / man
+sao / fish
+penze
 
-Ge folie li chepo.
-man.SG house.SG in BE
+li / in
+
+achè / this
+ochè / that
+
+olo / to sell
+chepo / to exist
+nuche / to eat
+```
+
+```
+Gepo folie li chepo.
+man.SG house.SG in exist
 "There is (a) man in (the) house."
 
 Naturo ochè folie li sao nuche.
