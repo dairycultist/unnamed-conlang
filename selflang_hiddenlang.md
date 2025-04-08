@@ -15,6 +15,8 @@ z = [ts]
 a e i o u
 ```
 
+(C)V
+
 stress falls on the penult of the *word* unless otherwise indicated with a grave accent
 
 ## Examples
@@ -24,7 +26,6 @@ folie / house
 naturo / woman
 gepo / man
 sao / fish
-penze
 
 li / in
 
