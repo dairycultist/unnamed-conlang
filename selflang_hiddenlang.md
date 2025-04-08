@@ -38,11 +38,13 @@ nuche / to eat
 
 ```
 Gepo folie li chepo.
-man.SG house.SG in exist
+man house in exist
 "There is (a) man in (the) house."
+```
 
+```
 Naturo ochè folie li sao nuche.
-woman.SG that house.SG in fish.SG eat
+woman that house in fish eat
 "That woman eats fish in (the) house."
 ```
 
