@@ -1,6 +1,6 @@
 highly (only?) analytic
 
-European villagelang :3
+European village selflang :3
 
 goen, broed, bloed, soel, suil, kuil
 
@@ -12,9 +12,12 @@ hen gaste = more big
 
 ## Phonology
 
-| Orth. | IPA |
-|-------|-----|
-| k     |\[χ] |
-| g     |\[ʁ] |
+| Orth. | IPA   |
+|-------|-------|
+| oe    |\[ø]   |
+| ui    |\[y]   |
+| r     |\[ɾ~r] |
+| k     |\[χ]   |
+| g     |\[ʁ]   |
 
 e -> ə / unstressed (function words are unstressed at the sentence level)
