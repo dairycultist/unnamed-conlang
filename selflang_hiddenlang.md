@@ -41,13 +41,14 @@ kofo achè / here
 kofo ochè / there
 
 olo / to sell
-chepo / BE; to exist; to be (something)
+Ø / COP
+chepo / to exist
 nuche / to eat
 ```
 
 ```
 Gepo folie li chepo.
-man house in BE
+man house in exist
 "There is (a) man in (the) house."
 ```
 
@@ -60,7 +61,7 @@ woman that house in fish eat
 ```
 
 ```
-Gepo achè ne sile medikolo chepo.
-man this of 3RD medikolo BE
+Gepo achè ne sile medikolo Ø.
+man this of 3RD medikolo COP
 This man (husband) of theirs is (a) doctor.
 ```
