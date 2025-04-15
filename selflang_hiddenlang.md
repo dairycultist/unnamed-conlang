@@ -61,6 +61,12 @@ woman that house in fish eat
 ```
 
 ```
+Naturo ochè gepo ne sile zina folie li sao nuche.
+woman that man of 3RD with house in fish eat
+"That woman eats fish with her husband in (the) house."
+```
+
+```
 Gepo achè ne sile medikolo Ø.
 man this of 3RD doctor COP
 This man (husband) of theirs is (a) doctor.
