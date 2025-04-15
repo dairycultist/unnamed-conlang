@@ -6,21 +6,30 @@ goen, broed, bloed, soel, suil, kuil
 
 gos / meat
 
-hen gaste = more big
+ken gaste = more big
 
 ## Phonology
+
+| Lab. | Cor. | Dors. |
+|------|------|-------|
+| m    | n    | ŋ     |
+| p b  | t d  |       |
+|      | ts   |       |
+| f    | s    | χ ʁ   |
+| w    | r l  | j     |
 
 | Orth. | IPA   |
 |-------|-------|
 | oe    |\[ø]   |
 | ui    |\[y]   |
 | r     |\[ɾ~r] |
+| z     |\[ts]  |
 | k     |\[χ]   |
 | g     |\[ʁ]   |
 
 e -> ə / unstressed (function words are unstressed at the sentence level)
 
 ```
-Suil koe hen  gaste.
+Suil koe ken  gaste.
 they be  COMP big
 ```
