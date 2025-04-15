@@ -29,6 +29,9 @@ kofo     / place
 
 li / in
 zina / with
+_ / of
+
+sile / 3rd person
 
 achè / (det) this
 ochè / (det) that
