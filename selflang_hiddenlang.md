@@ -1,16 +1,15 @@
-highly (only?) analytic
+solely analytic (no morphology)
 
 ## Phonology and Orthography
 ```
 m     n
 p b   t d        k g
-            tʃ
-      ts
+      ts    tʃ
 f     s
       r l
 
 ch = [tʃ]
-z = [ts]
+z  = [ts]
 
 a e i o u
 ```
@@ -21,16 +20,21 @@ stress falls on the penult of the *word* unless otherwise indicated with a grave
 
 ## Examples
 ```
-bolio / store
-folie / house
-naturo / woman
-gepo / man
-sao / fish
+bolio    / store
+folie    / house
+naturo   / woman
+gepo     / man
+sao      / fish
+kofo     / place
 
 li / in
+zina / with
 
-achè / this
-ochè / that
+achè / (det) this
+ochè / (det) that
+
+kofo achè / here
+kofo ochè / there
 
 olo / to sell
 chepo / to exist
