@@ -1,6 +1,6 @@
 highly (only?) analytic
 
-European village selflang :3
+European village selflang :3 goal is pronounceable, not very complex syntactically, literally no morphology
 
 goen, broed, bloed, soel, suil, kuil
 
@@ -21,6 +21,6 @@ hen gaste = more big
 e -> ə / unstressed (function words are unstressed at the sentence level)
 
 ```
-Suil koe hen gaste.
-They are COMP big
+Suil koe hen  gaste.
+they be  COMP big
 ```
