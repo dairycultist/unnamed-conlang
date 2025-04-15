@@ -62,6 +62,6 @@ woman that house in fish eat
 
 ```
 Gepo achè ne sile medikolo Ø.
-man this of 3RD medikolo COP
+man this of 3RD doctor COP
 This man (husband) of theirs is (a) doctor.
 ```
