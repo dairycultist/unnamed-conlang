@@ -26,10 +26,11 @@ naturo   / woman
 gepo     / man
 sao      / fish
 kofo     / place
+medikolo / doctor
 
 li / in
 zina / with
-_ / of
+ne / of
 
 sile / 3rd person
 
@@ -40,15 +41,17 @@ kofo achè / here
 kofo ochè / there
 
 olo / to sell
-chepo / to exist
+chepo / BE; to exist; to be (something)
 nuche / to eat
 ```
 
 ```
 Gepo folie li chepo.
-man house in exist
+man house in BE
 "There is (a) man in (the) house."
 ```
+
+<img align="right" src="fish_eat.png">
 
 ```
 Naturo ochè folie li sao nuche.
@@ -56,4 +59,8 @@ woman that house in fish eat
 "That woman eats fish in (the) house."
 ```
 
-![tree](fish_eat.png)
+```
+Gepo achè ne sile medikolo chepo.
+man this of 3RD medikolo BE
+This man (husband) of theirs is (a) doctor.
+```
