@@ -2,6 +2,8 @@ fun with lexical phonology :3
 
 `/kiŋtʃa/ [kiŋdʒa]` car
 
+`/kontʃu/ [kondʒu]` milk
+
 `/nasuk/` person
 
 `/nantʃuk/ [nandʒuk]` chicken
