@@ -8,7 +8,7 @@ sesusil
 
 sihap
 
-s → z / \[voiced]_
+voiceless obstruent → voiced / \[voiced]_
 
 s → ʃ / _\[i,e]
 
