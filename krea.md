@@ -1,6 +1,6 @@
-\[kiŋtʃa] car
+`[kiŋtʃa]` car
 
-nasuk
+`[nasuk]` person
 
 pangsek
 
@@ -8,7 +8,7 @@ sesusil
 
 sihap
 
-voiceless obstruent → voiced / \[voiced]_
+voiceless obstruent → voiced / voiced _
 
 s → ʃ / _\[i,e]
 
