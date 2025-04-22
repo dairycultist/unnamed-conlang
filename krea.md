@@ -1,14 +1,18 @@
-`[kiŋtʃa]` car
+fun with lexical phonology :3
 
-`[nasuk]` person
+`/kiŋtʃa/ [kiŋdʒa]` car
 
-pangsek
+`/nasuk/` person
+
+`/nantʃuk/ [nandʒuk]` chicken
+
+`/paŋsok/ [paŋzok]`
 
 sesusil
 
 sihap
 
-voiceless obstruent → voiced / voiced _
+voiceless consonant → voiced / voiced consonant _
 
 s → ʃ / _\[i,e]
 
