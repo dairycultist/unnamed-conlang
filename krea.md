@@ -8,6 +8,8 @@ fun with lexical phonology :3
 
 `/paŋsok/ [paŋzok]`
 
+`/sani/ + /il/ = /saniil/ [sanjul]`
+
 sesusil
 
 sihap
@@ -15,6 +17,8 @@ sihap
 voiceless consonant → voiced / voiced consonant _
 
 s → ʃ / _\[i,e]
+
+\[i,u] → \[j,w] / _V
 
 \[i,e] → \[u,o] / j_
 
