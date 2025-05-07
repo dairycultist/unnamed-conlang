@@ -21,16 +21,17 @@ croatian here
 [u iʃkola]
 ```
 
-| Lex.    | Hungarian      | Croatian     | Pidgin       |
-|---------|----------------|--------------|--------------|
-| 1st p.  | \[e:n]         | \[ja]        | \[jen]       |
-| Hungary | \[mɑɟɑrorsa:g] | \[madjarska] | \[mad͡ʑarsag] |
-| school  | \[iʃkolɑ]      | \[ʂkola]     | \[iʃkola]    |
-| apple   | \[ɑlmɑ]        | \[jabuka]    | \[jabaka]    |
-| to eat  | \[ɛsik]        | \[jesti]     | \[esti]      |
-| in      | \[bɛ]          | \[u]         | \[u]         |
-| Nom.    | -Ø             | -Ø           | -Ø           |
-| Acc.    | -\[ot]/\[ɛt]   | -\[u]        | -\[ut]       |
+| Lex.    | Hungarian        | Croatian     | Pidgin       |
+|---------|------------------|--------------|--------------|
+| 1st p.  | \[e:n]           | \[ja]        | \[jen]       |
+| Hungary | \[mɑɟɑrorsa:g]   | \[madjarska] | \[mad͡ʑarsag] |
+| Croatia | \[horva:torsa:g] | \[xrvatska]  | \[horvatsag] |
+| school  | \[iʃkolɑ]        | \[ʂkola]     | \[iʃkola]    |
+| apple   | \[ɑlmɑ]          | \[jabuka]    | \[jabaka]    |
+| to eat  | \[ɛsik]          | \[jesti]     | \[esti]      |
+| in      | \[bɛ]            | \[u]         | \[u]         |
+| Nom.    | -Ø               | -Ø           | -Ø           |
+| Acc.    | -\[ot]/\[ɛt]     | -\[u]        | -\[ut]       |
 
 - articles (from Hungarian) are lost
 - gender inflection (from Croatian) is lost
