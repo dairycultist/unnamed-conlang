@@ -18,7 +18,7 @@ croatian here
 # Pidginization
 
 ```
-[u iʃkola]
+[jen meg esti zeleda jabakut]
 ```
 
 | Lex.    | Hungarian        | Croatian     | Pidgin       |
@@ -26,12 +26,14 @@ croatian here
 | 1st p.  | \[e:n]           | \[ja]        | \[jen]       |
 | Hungary | \[mɑɟɑrorsa:g]   | \[madjarska] | \[mad͡ʑarsag] |
 | Croatia | \[horva:torsa:g] | \[xrvatska]  | \[horvatsag] |
+| green   | \[zöld]          | \[zelena]    | \[zeleda]    |
 | school  | \[iʃkolɑ]        | \[ʂkola]     | \[iʃkola]    |
 | apple   | \[ɑlmɑ]          | \[jabuka]    | \[jabaka]    |
 | to eat  | \[ɛsik]          | \[jesti]     | \[esti]      |
 | in      | \[bɛ]            | \[u]         | \[u]         |
 | Nom.    | -Ø               | -Ø           | -Ø           |
 | Acc.    | -\[ot]/\[ɛt]     | -\[u]        | -\[ut]       |
+| Loc.    ||||
 
 - articles (from Hungarian) are lost
 - gender inflection (from Croatian) is lost
