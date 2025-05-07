@@ -2,24 +2,33 @@
 
 Source language analysis is pretty inaccurate but idk this is for fun and not terribly realistic
 
-# Source languages
+## Evolution
 
-I ate the green apples in the school.
+### Source languages
 
-```
-Megettem a zöldalmákat az iskolában.
-analysis here
-```
+qualities
 
-```
-croatian here
-```
+### Pidginization
 
-# Pidginization
+- articles (from Hungarian) are lost
+- gender inflection (from Croatian) is lost
+- Case is simplified
+- Maintains regressive voicing assimilation ([from both](https://en.wikipedia.org/wiki/Serbo-Croatian_phonology#Assimilation_of_voice))
+- Hungarian `meg` is reinterpreted as a past particle
+- Phonology is highly variable between speakers
 
-```
-[jen meg esti zeleda jabakut]
-```
+### Creolization
+(fully systematic, removes irregularities)
+
+- Standardized phonology
+  - Length is lost (I couldn't find a good source for the length of Croatian lexical items)
+  - Five vowel system
+    - Hungarian vowel harmony is (obviously) lost
+  - Hungarian /c ɟ/ merge with /t͡ɕ d͡ʑ/
+  - Croatian /ʎ/ merges with /j/
+  - Croatian retroflex consonants become postalveolar (a common alternation even in the [source language](https://en.wikipedia.org/wiki/Serbo-Croatian_phonology#Consonants)), except in cases where [they alternate with velars](https://en.wikipedia.org/wiki/Serbo-Croatian_phonology#Palatalization), where they become the velar consonant instead.
+
+## Final Creole
 
 | Lex.    | Hungarian        | Croatian     | Pidgin       |
 |---------|------------------|--------------|--------------|
@@ -35,20 +44,17 @@ croatian here
 | Acc.    | -\[ot]/\[ɛt]     | -\[u]        | -\[ut]       |
 | Loc.    ||||
 
-- articles (from Hungarian) are lost
-- gender inflection (from Croatian) is lost
-- Case is simplified
-- Maintains regressive voicing assimilation ([from both](https://en.wikipedia.org/wiki/Serbo-Croatian_phonology#Assimilation_of_voice))
-- Hungarian `meg` is reinterpreted as a past particle
-- Phonology is highly variable between speakers
+I ate the green apples in the school.
 
-# Creolization
-(fully systematic, removes irregularities)
+```
+Megettem a zöldalmákat az iskolában.
+analysis here
+```
 
-- Standardized phonology
-  - Length is lost (I couldn't find a good source for the length of Croatian lexical items)
-  - Five vowel system
-    - Hungarian vowel harmony is (obviously) lost
-  - Hungarian /c ɟ/ merge with /t͡ɕ d͡ʑ/
-  - Croatian /ʎ/ merges with /j/
-  - Croatian retroflex consonants become postalveolar (a common alternation even in the [source language](https://en.wikipedia.org/wiki/Serbo-Croatian_phonology#Consonants)), except in cases where [they alternate with velars](https://en.wikipedia.org/wiki/Serbo-Croatian_phonology#Palatalization), where they become the velar consonant instead.
+```
+croatian here
+```
+
+```
+[jen meg esti zeleda jabakut]
+```
