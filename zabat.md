@@ -1,8 +1,12 @@
+### Lexicon
+
+/narb/ N. 
+
 ### Phonology
 
 Only voiced obstruents. Word-final devoicing.
 
-progressive height harmony (only \[-open] undergo harmony, thus \[a] is neutral)
+progressive height harmony (only \[-open] undergo harmony, and \[a] is unspecified for \[close], thus \[a] is neutral/transparent)
 ```
 [a] [+open]
 [o,e] [-open -close]
@@ -15,10 +19,10 @@ progressive height harmony (only \[-open] undergo harmony, thus \[a] is neutral)
 
 Note that subjects and objects are inflected the same way. More animate nouns are ALWAYS assumed to be the subject and less animate the object (regardless of word order), UNLESS the verb is passivized (where expectations are inverted).
 
-narp-Ø / Transitive subject and object
+-Ø / Transitive subject and object
 
-narb-it / Intransitive agent-like argument
+-it ~ -et / Intransitive agent-like argument
 
-narb-arl / Intransitive patient-like argument, Dative, Adpositional
+-arl / Intransitive patient-like argument, Dative, Adpositional
 
 mog- / Verb passiziation
