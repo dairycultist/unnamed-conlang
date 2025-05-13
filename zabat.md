@@ -3,6 +3,8 @@
 ```
 /narb/ N. 
 /zuga/ V.
+/zard/ N.
+/gard/ V.
 /gord/ V.
 /gerd/ V. 
 ```
