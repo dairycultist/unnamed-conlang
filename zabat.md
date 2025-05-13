@@ -2,6 +2,13 @@
 
 Only voiced obstruents. Word-final devoicing.
 
+height harmony (only \[-open] undergo harmony, thus \[a] is neutral)
+`
+[a] [+open]
+[o,e] [-open -close]
+[u,i] [-open +close]
+`
+
 \[zuga gort zan ʒibap]
 
 ### Morphology
