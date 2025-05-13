@@ -3,14 +3,17 @@
 ```
 /narb/ N. 
 /zuga/ V.
-/gort/ V. 
+/gord/ V.
+/gerd/ V. 
 ```
 
 \[zan ʒibap]
 
 ### Phonology
 
-Only voiced obstruents. Word-final devoicing.
+Only voiced obstruents.
+
+Word-final devoicing.
 
 Progressive height harmony (only \[-open] undergo harmony, and \[a] is unspecified for \[close], thus \[a] is neutral/transparent). Harmony affects both under- and fully specified segments (i.e. delinking will occur in the case of the latter).
 ```
