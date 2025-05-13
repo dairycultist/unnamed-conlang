@@ -8,10 +8,11 @@
 
 #### Verbs
 ```
-/zuga/
+/zuga/ [θ1]
 /gard/ [θ1 θ2]
 /gord/ [θ1 θ2]
 /gerd/ [θ1 θ2]
+/blet/ [θ1 θ2]
 ```
 
 \[zan ʒibap]
