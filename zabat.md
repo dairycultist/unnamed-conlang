@@ -1,12 +1,17 @@
 ### Lexicon
 
+#### Nouns
 ```
-/narb/ N. 
-/zuga/ V.
-/zard/ N.
-/gard/ V.
-/gord/ V.
-/gerd/ V. 
+/narb/
+/zard/
+```
+
+#### Verbs
+```
+/zuga/
+/gard/ [θ1 θ2]
+/gord/ [θ1 θ2]
+/gerd/ [θ1 θ2]
 ```
 
 \[zan ʒibap]
