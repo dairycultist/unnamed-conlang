@@ -3,9 +3,10 @@
 ```
 /narb/ N. 
 /zuga/ V.
+/gort/ V. 
 ```
 
-\[gort zan ʒibap]
+\[zan ʒibap]
 
 ### Phonology
 
@@ -13,10 +14,12 @@ Only voiced obstruents. Word-final devoicing.
 
 Progressive height harmony (only \[-open] undergo harmony, and \[a] is unspecified for \[close], thus \[a] is neutral/transparent). Harmony affects both under- and fully specified segments (i.e. delinking will occur in the case of the latter).
 ```
-[a]   [+open]
-[o,e] [-open -close]
-[u,i] [-open +close]
+/a/   [+open]
+/o,e/ [-open -close]
+/u,i/ [-open +close]
 ```
+
+/a, o, e/ are pronounced \[ə] in non-careful speech.
 
 ### Morphology
 
@@ -28,4 +31,4 @@ Note that subjects and objects are inflected the same way. More animate nouns ar
 
 -arl / Intransitive patient-like argument, Dative, Adpositional
 
-mog- / Verb passivization
+mug- / Verb passivization
