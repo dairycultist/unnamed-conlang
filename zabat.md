@@ -6,7 +6,7 @@
 
 Only voiced obstruents. Word-final devoicing.
 
-progressive height harmony (only \[-open] undergo harmony, and \[a] is unspecified for \[close], thus \[a] is neutral/transparent)
+Progressive height harmony (only \[-open] undergo harmony, and \[a] is unspecified for \[close], thus \[a] is neutral/transparent). Harmony affects both under- and fully specified segments.
 ```
 [a] [+open]
 [o,e] [-open -close]
