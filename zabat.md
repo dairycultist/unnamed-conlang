@@ -1,6 +1,9 @@
 ### Lexicon
 
-/narb/ N. 
+- /narb/ N. 
+- /zuga/ V. 
+
+\[gort zan ʒibap]
 
 ### Phonology
 
@@ -13,8 +16,6 @@ Progressive height harmony (only \[-open] undergo harmony, and \[a] is unspecifi
 [u,i] [-open +close]
 ```
 
-\[zuga gort zan ʒibap]
-
 ### Morphology
 
 Note that subjects and objects are inflected the same way. More animate nouns are ALWAYS assumed to be the subject and less animate the object (regardless of word order), UNLESS the verb is passivized (where expectations are inverted).
@@ -25,4 +26,4 @@ Note that subjects and objects are inflected the same way. More animate nouns ar
 
 -arl / Intransitive patient-like argument, Dative, Adpositional
 
-mog- / Verb passiziation
+mog- / Verb passivization
