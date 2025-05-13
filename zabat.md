@@ -33,12 +33,20 @@ Progressive height harmony (only \[-open] undergo harmony, and \[a] is unspecifi
 
 ### Morphology
 
+#### Nouns
+
 Note that subjects and objects are inflected the same way. More animate nouns are ALWAYS assumed to be the subject and less animate the object (regardless of word order), UNLESS the verb is passivized (where expectations are inverted).
 
--Ø / Transitive subject and object
+```
+-Ø        / Transitive subject and object
 
 -it ~ -et / Intransitive agent-like argument
 
--arl / Intransitive patient-like argument, Dative, Adpositional
+-arl      / Intransitive patient-like argument, Dative, Adpositional
+```
 
+#### Verbs
+
+```
 mug- / Verb passivization
+```
