@@ -8,11 +8,11 @@
 
 #### Verbs
 ```
-/zuga/ 1place
-/gard/ 2place
-/gord/ 2place
-/gerd/ 2place
-/blet/ 2place
+/zuga/ (1 place)
+/gard/ (2 place)
+/gord/ (2 place)
+/gerd/ (2 place)
+/blet/ (2 place)
 ```
 
 \[zan ʒibap]
