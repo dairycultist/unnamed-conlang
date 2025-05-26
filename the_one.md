@@ -5,14 +5,15 @@ f s xʲ x
 w l j  ɰ
 
 i u
-e o
- a
+e a
 ```
 
 Greek is a vibe
 
-/oɰaj/
+/'uɰa/
 
-/kʲaneos/
+-/j/
+
+/'kʲaneus/
 
 no voicing contrast, palatal-dorsal alternation?
