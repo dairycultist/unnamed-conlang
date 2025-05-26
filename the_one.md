@@ -4,4 +4,6 @@ Lang I'd use
 
 Greek is a vibe
 
-/'kʲaneos/
+Max syllable structure: \[any obstruent] \[any sonorant] \[vowel] \[any continuant]
+
+/'kjaneos/
