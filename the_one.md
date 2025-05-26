@@ -1,19 +1,7 @@
-```
-m n ɲ  ŋ
-p t kʲ k
-f s xʲ x
-w l j  ɰ
+Lang I'd use
 
-i u
-e a
-```
+## Phonology
 
 Greek is a vibe
 
-/'uɰa/
-
--/j/
-
-/'kʲaneus/
-
-no voicing contrast, palatal-dorsal alternation?
+/'kʲaneos/
