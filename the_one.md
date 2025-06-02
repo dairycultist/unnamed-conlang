@@ -21,9 +21,10 @@ CCCVC
 
 ## Morphology
 
-stfos
-
-```
 /'knos/ hand
-/'kn+e+os/ hands
-```
+
+/'stfos/
+
+/'pri.la/
+
+-/e/- | plural, inserted in final syllable between onset and nucleus
