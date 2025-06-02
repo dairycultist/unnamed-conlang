@@ -27,4 +27,4 @@ CCCVC
 
 /'pri.la/
 
--/e/- | plural, inserted in final syllable between onset and nucleus
+-/e/- | Plural; inserted in final syllable between onset and nucleus (a similar process occurs in [Spanish](https://en.wikipedia.org/wiki/Infix#Spanish))
