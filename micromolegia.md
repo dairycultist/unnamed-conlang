@@ -9,4 +9,4 @@ a e ɪ i o ʊ u
 2. labial stop -> fricative
 3. velar stop -> labialized / _rounded
 
-aβa igosa
+/apa ɪkosa/ \['aβa 'ɪgʷosa]
