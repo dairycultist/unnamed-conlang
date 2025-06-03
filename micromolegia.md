@@ -11,19 +11,19 @@ CV
 2. labial stop -> fricative
 3. velar stop -> labialized / _rounded
 
-`/apa/` V. to _
+`/apa/` V. to strip the bark from (a tree); to scold (a person)
 
-`/kosa/` N. 
+`/kosa/` N. tree
 
 `/sa/` N. 1st person
 
-`/apa ɪkosa sa/ ['aβa 'ɪgʷosa sa]` I _ the _
+`/apa ɪkosa sa/ [,aβə'ɪgʷo,sasə̥]` I strip the bark from the tree
 
 | Noun class | Refers to |
 |------------|-----------|
 | Ø          | Humans    |
 | /pe/-      |  |
 | /kʊ/-      |  |
-| /ɪ/-       |  |
+| /ɪ/-       | Things with flat canopies (houses, trees, etc) |
 
 - Class goes on the noun and verb whose subject is that noun (noun function indicated through agreement, so word order is loose)
