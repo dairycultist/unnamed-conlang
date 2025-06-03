@@ -15,7 +15,9 @@ CV
 
 `/kosa/` N. 
 
-`/apa ɪkosa/ ['aβa 'ɪgʷosa]` I _ the _
+`/sa/` N. 1st person
+
+`/apa ɪkosa sa/ ['aβa 'ɪgʷosa sa]` I _ the _
 
 | Noun class | Refers to |
 |------------|-----------|
@@ -24,4 +26,4 @@ CV
 | /kʊ/-      |  |
 | /ɪ/-       |  |
 
-- Class goes on the noun and verb whose subject is that noun
+- Class goes on the noun and verb whose subject is that noun (noun function indicated through agreement, so word order is loose)
