@@ -13,4 +13,9 @@ CV
 
 /apa ɪkosa/ \['aβa 'ɪgʷosa]
 
-noun class
+| Noun classes |
+----------------
+| Ø |
+| /pe/- |
+| /kʊ/- |
+| /ɪ/- |
