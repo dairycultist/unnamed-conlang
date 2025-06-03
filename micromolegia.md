@@ -11,10 +11,11 @@ CV
 2. labial stop -> fricative
 3. velar stop -> labialized / _rounded
 
-/apa/ V. to _
-/kosa/ N. 
+`/apa/` V. to _
 
-/apa ɪkosa/ \['aβa 'ɪgʷosa] I _ the _
+`/kosa/` N. 
+
+`/apa ɪkosa/ ['aβa 'ɪgʷosa]` I _ the _
 
 | Noun classes | Refers to |
 |--------------|-----------|
