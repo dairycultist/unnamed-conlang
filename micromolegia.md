@@ -17,9 +17,11 @@ CV
 
 `/apa ɪkosa/ ['aβa 'ɪgʷosa]` I _ the _
 
-| Noun classes | Refers to |
-|--------------|-----------|
-| Ø            | Humans    |
-| /pe/-        |  |
-| /kʊ/-        |  |
-| /ɪ/-         |  |
+| Noun class | Refers to |
+|------------|-----------|
+| Ø          | Humans    |
+| /pe/-      |  |
+| /kʊ/-      |  |
+| /ɪ/-       |  |
+
+- Class goes on the noun and verb whose subject is that noun
