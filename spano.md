@@ -1,16 +1,20 @@
+scrib | lemma for "to write"
+
+mort | lemma for "to die"
+
+---
+
 scribar | to write (3rd)
 
-mortenar \[morˈtɛnar] | to die (1st)
+-enar | 1st person (stress always falls on this suffix's first syllable)
 
-mortis | to die (2nd)
+-is | 2nd person (stress never falls on this suffix)
 
-mortar \[morˈtar] | to die (3rd)
+-ar | 3rd person (stress always falls on this suffix)
 
 -te | Interrogative mood
 
-mort - death
-
-cien \[ʃɛn] - causative particle (precedes verb)
+cien \[ʃɛn] - causative voice particle (precedes verb)
 
 VSO
 
