@@ -4,8 +4,6 @@ mort | lemma for "to die"
 
 ---
 
-scribar | to write (3rd)
-
 -enar | 1st person (stress always falls on this suffix's first syllable)
 
 -is | 2nd person (stress never falls on this suffix)
@@ -15,6 +13,8 @@ scribar | to write (3rd)
 -te | Interrogative mood
 
 cien \[ʃɛn] - causative voice particle (precedes verb)
+
+---
 
 VSO
 
