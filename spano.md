@@ -2,6 +2,10 @@ scrib | lemma for "to write"
 
 mort | lemma for "to die"
 
+fruta | fruit
+
+granula | grain
+
 ---
 
 -enar | 1st person (stress always falls on this suffix's first syllable)
