@@ -1,3 +1,5 @@
+a posteriori
+
 scrib | lemma for _to write_
 
 mort | lemma for _to die_
@@ -20,7 +22,7 @@ nociela | anthropomorphized character (compare Japanese _gijinka_)
 
 adjectives precede the noun
 
-mun | plural particle (precedes noun)
+mult | plural particle (precedes noun)
 
 ---
 
@@ -42,6 +44,6 @@ cien \[ʃɛn] - causative voice particle (precedes verb)
 
 VSO
 
-Cien mortenar mun pese. | _I kill the bugs._
+Cien mortenar mult pese. | _I kill the bugs._
 
 Scribiste? | _Did you write?_
