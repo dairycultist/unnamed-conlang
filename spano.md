@@ -1,10 +1,14 @@
-scrib | lemma for "to write"
+scrib | lemma for _to write_
 
-mort | lemma for "to die"
+mort | lemma for _to die_
 
-fruta | fruit
+fruta | _fruit_
 
-granula | grain
+granula | _grain_
+
+pese | _bug_
+
+nociela | anthropomorphized character (compare Japanese _gijinka_)
 
 ---
 
@@ -15,6 +19,8 @@ granula | grain
 -ar | 3rd person (stress always falls on this suffix)
 
 -te | Interrogative mood
+
+-Ø | Gerundive (for example, "mort pese" _dead bug_)
 
 cien \[ʃɛn] - causative voice particle (precedes verb)
 
