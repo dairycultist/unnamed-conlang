@@ -2,6 +2,10 @@ scrib | lemma for _to write_
 
 mort | lemma for _to die_
 
+amor | lemma for _to love_
+
+abh | lemma for _to hate_
+
 fruta | _fruit_
 
 granula | _grain_
